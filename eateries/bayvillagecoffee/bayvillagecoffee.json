@@ -1,0 +1,361 @@
+{
+"name" : "Bay Village Coffee",
+"status" : "",
+"link" : "https://www.bayvillagecoffee.com/", 
+"hours" : "(Monday - Friday: 07:00 - 14:00)", 
+"tel" : "807-286-0278", 
+"sms": "", 
+"address" : "Address: 221 Bay Street", 
+"map": "https://maps.app.goo.gl/iH3qoZfN9czzFBU79", 
+"updated" : "2025-11-26", 
+"courtesy" : "DC!",
+"text" : "
+Hot Drinks
+<br>Available 7:00 a.m. - 1:45 p.m.
+<br>
+<br>Drip Coffee
+<br>Drip Coffee
+<br>
+<br>Made with locally roasted beans from Rose N Crantz Roasting Co. in Thunder Bay with beans from Rwanda.
+<br>CAD$3.00 - CAD$4.00
+<br>
+<br>
+<br>Cappuccino
+<br>Cappuccino
+<br>
+<br>Espresso and steamed milk.
+<br>CAD$4.50 - CAD$7.00
+<br>
+<br>
+<br>Latte
+<br>Latte
+<br>
+<br>Espresso and steamed milk.
+<br>CAD$4.50 - CAD$7.00
+<br>
+<br>
+<br>Espresso (Double Shot)
+<br>Espresso (Double Shot)
+<br>
+<br>CAD$3.50
+<br>
+<br>
+<br>Red Eye
+<br>Red Eye
+<br>
+<br>Espresso and drip coffee.
+<br>CAD$4.50 - CAD$7.00
+<br>
+<br>
+<br>Canadiano
+<br>Canadiano
+<br>
+<br>Espresso and hot water. Add your choice of dairy/alternative and sweetness.
+<br>CAD$4.00 - CAD$6.50
+<br>
+<br>
+<br>Flat White
+<br>Flat White
+<br>
+<br>Shots of espresso and steamed whole milk.
+<br>CAD$4.50 - CAD$7.00
+<br>
+<br>
+<br>Bullet Proof
+<br>Bullet Proof
+<br>
+<br>Coffee blended with grass fed butter, coconut oil and heavy cream.
+<br>CAD$5.75 - CAD$6.75
+<br>
+<br>
+<br>Cafe Mocha
+<br>Cafe Mocha
+<br>
+<br>Espresso, milk and chocolate syrup
+<br>CAD$4.50 - CAD$7.00
+<br>
+<br>
+<br>Cafe Mocha White
+<br>Cafe Mocha White
+<br>
+<br>CAD$5.25 - CAD$6.25
+<br>
+<br>
+<br>London Fog
+<br>London Fog
+<br>
+<br>Earl Grey tea, vanilla syrup and steamed milk.
+<br>CAD$4.50 - CAD$5.50
+<br>
+<br>
+<br>Chai Latte
+<br>Chai Latte
+<br>
+<br>Masala Chai tea and steamed milk.
+<br>CAD$4.50 - CAD$5.50
+<br>
+<br>
+<br>Steamer
+<br>Steamer
+<br>
+<br>Steamed milk flavoured with your choice of syrup.
+<br>CAD$2.70 - CAD$4.70
+<br>
+<br>
+<br>Hot Chocolate
+<br>Hot Chocolate
+<br>
+<br>Steamed milk and delicious chocolate syrup.
+<br>CAD$3.00 - CAD$4.00
+<br>
+<br>
+<br>Hot Chocolate (White)
+<br>Hot Chocolate (White)
+<br>
+<br>CAD$3.45 - CAD$4.45
+<br>
+<br>
+<br>Cold Drinks
+<br>Available 7:00 a.m. - 1:45 p.m.
+<br>
+<br>Iced Coffee
+<br>Iced Coffee
+<br>
+<br>Iced coffee made with locally roasted beans from Rose N Crantz Roasting Co. with beans from Rwanda.
+<br>CAD$5.00 - CAD$5.50
+<br>
+<br>
+<br>Iced Canadiano
+<br>Iced Canadiano
+<br>
+<br>Espresso shot, water, cream, and ice.
+<br>CAD$5.00 - CAD$5.50
+<br>
+<br>
+<br>Iced Latte
+<br>Iced Latte
+<br>
+<br>Espresso, milk and ice. Want flavour? Add a flavour shot.
+<br>CAD$5.50 - CAD$6.00
+<br>
+<br>
+<br>Iced Tea
+<br>Iced Tea
+<br>
+<br>CAD$3.60 - CAD$4.10
+<br>
+<br>
+<br>Iced London Fog
+<br>Iced London Fog
+<br>
+<br>Iced earl grey tea, vanilla syrup, you choice of dairy/alternative and ice.
+<br>CAD$5.00 - CAD$6.00
+<br>
+<br>
+<br>Iced Chai Latte
+<br>Iced Chai Latte
+<br>
+<br>Chai tea, your choice of dairy/alternative and ice.
+<br>CAD$5.50 - CAD$6.00
+<br>
+<br>
+<br>Coffee Sparkler
+<br>Coffee Sparkler
+<br>
+<br>A Bay Village Original. Cold brew coffee, sparkling water, housemade syrup and ice.
+<br>CAD$4.40 - CAD$5.40
+<br>
+<br>
+<br>Italian Soda
+<br>Italian Soda
+<br>
+<br>Soda water and a flavour shot of your choice.
+<br>CAD$4.20 - CAD$4.70
+<br>
+<br>
+<br>Fresh Baking
+<br>Available 7:00 a.m. - 1:45 p.m.
+<br>
+<br>Scone
+<br>Scone
+<br>
+<br>Fresh made classic scone
+<br>CAD$4.25
+<br>
+<br>
+<br>
+<br>Muffins
+<br>Muffins
+<br>
+<br>Housemade muffins, made fresh daily with seasonal fruit.
+<br>CAD$4.25 - CAD$4.75
+<br>
+<br>
+<br>
+<br>Squares
+<br>Squares
+<br>
+<br>CAD$4.00 - CAD$5.25
+<br>
+<br>
+<br>
+<br>Dessert Squares
+<br>
+<br>Brownies: chewy fudge brownies loaded with pecans and chocolate chips frosted with chocolate buttercream. Nanaimo: classic 3 layer bars with chocolate coconut base, creamy custard filling and chocolate topping. Date squares: sumptuous date filling with a buttery oatmeal crumble Lemon squares: shortbread crust topped with tangy lemon filling. Magic bars: graham crumb base topped with coconut, pecans, chocolate chips, Skor bits and sweetened condensed milk. Sweet Marie bar: salty and sweet combination of pecans, peanut butter and chocolate. $4.50 each
+<br>CAD$4.50
+<br>
+<br>
+<br>
+<br>Cookies
+<br>Cookies
+<br>
+<br>Baked fresh in house using all natural ingredients, delicious!
+<br>CAD$3.50 - CAD$5.75
+<br>
+<br>
+<br>
+<br>Donuts
+<br>Donuts
+<br>
+<br>CAD$3.50
+<br>
+<br>
+<br>
+<br>Breakfast
+<br>Available 7:00 a.m. - 1:45 p.m.
+<br>
+<br>Breakfast Sandwich
+<br>Breakfast Sandwich
+<br>
+<br>A toasted, buttered English muffin topped with egg, real cheddar, bacon, tomato, alfalfa sprouts and mayo.
+<br>CAD$8.50
+<br>
+<br>
+<br>Whole Quiche
+<br>Whole Quiche
+<br>
+<br>CAD$35.00
+<br>
+<br>
+<br>Parfait
+<br>Parfait
+<br>
+<br>CAD$7.00
+<br>
+<br>
+<br>
+<br>Power Bites
+<br>Power Bites
+<br>
+<br>CAD$2.75
+<br>
+<br>
+<br>
+<br>Overnight Oats
+<br>Overnight Oats
+<br>
+<br>CAD$6.00
+<br>
+<br>
+<br>
+<br>Quiche
+<br>Quiche
+<br>
+<br>CAD$8.00
+<br>
+<br>
+<br>
+<br>Lunch
+<br>Available 7:00 a.m. - 1:45 p.m.
+<br>
+<br>Sandwiches
+<br>Sandwiches
+<br>
+<br>CAD$8.95 - CAD$14.50
+<br>
+<br>
+<br>
+<br>Wraps
+<br>Wraps
+<br>
+<br>CAD$12.95
+<br>
+<br>
+<br>
+<br>Salad
+<br>Salad
+<br>
+<br>CAD$10.95
+<br>
+<br>
+<br>Flatbread
+<br>Flatbread
+<br>
+<br>CAD$11.95
+<br>
+<br>
+<br>Chia Pudding
+<br>Chia Pudding
+<br>
+<br>CAD$5.00
+<br>
+<br>
+<br>Retail
+<br>Available 7:00 a.m. - 1:45 p.m.
+<br>
+<br>Rose N Crantz Retail
+<br>Rose N Crantz Retail
+<br>
+<br>Locally roasted coffee beans from Rose N Crantz Roasting Co. in Thunder Bay.
+<br>CAD$24.00
+<br>
+<br>
+<br>
+<br>Bottled Water
+<br>Bottled Water
+<br>
+<br>Spring fed bottled water.
+<br>CAD$2.00
+<br>
+<br>
+<br>Jones Soda
+<br>Jones Soda
+<br>
+<br>CAD$3.50
+<br>
+<br>
+<br>Juice
+<br>Juice
+<br>
+<br>Choose between Orange or Apple Grape flavour.
+<br>CAD$2.49
+<br>
+<br>
+<br>
+<br>Gatorade
+<br>Gatorade
+<br>
+<br>CAD$3.00
+<br>
+<br>
+<br>Hats
+<br>
+<br>CAD$24.99
+<br>
+<br>
+<br>Travel Mug
+<br>
+<br>CAD$49.99
+<br>
+<br>
+<br>Power Pack
+<br>
+<br>CAD$16.50
+<br>
+<br>
+<br>Bottled Syrup
+<br>Bottled Syrup
+<br>
+<br>CAD$11.95
+"
+}

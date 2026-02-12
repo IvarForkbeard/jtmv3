@@ -1,0 +1,10 @@
+<script>
+    // this is to handle redirects from search engines
+  const params = new URLSearchParams(window.location.search);
+  const id = params.get('id');
+  if (id) {
+    window.location.href = `index.php?id=${id}`;
+  } else {
+    // optional: redirect to homepage or error page
+  }
+</script>

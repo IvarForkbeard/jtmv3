@@ -1,0 +1,271 @@
+/* This is the CSS file for justthemenu.ca */
+* {
+  box-sizing: border-box;
+}
+a {
+  text-decoration-thickness: 1px;
+}
+.blink {
+  animation: blink 1s step-end infinite;
+}
+body {
+  background-image: url("background.webp");
+  font-family: Inter, Roboto, Arial, Helvetica, sans-serif;
+  font-weight: bold;
+  margin: 0px;
+  padding: 0px;
+}
+.card {
+  /*background-color: pink;*/
+  background-color: rgba(255, 164, 179, 0.5);
+  break-inside: avoid;
+  box-shadow: 10px 10px 4px 0px darkslategrey;
+  font-size: x-large;
+  margin: 10px 10px 10px 10px;
+  padding: 0px 0px 0px 10px;
+  position: relative;
+  word-break: break-word;
+}
+.card p {
+  hyphens: auto;
+  margin: 0px;
+}
+.card.temporarily-closed::after {
+  color: black;
+  content: "Temporarily Closed";
+  font-size: xx-large;
+  font-weight: bolder;
+  left: 50%;
+  opacity: 0.6;
+  pointer-events: none;
+  position: absolute;
+  top: 50%;
+  transform: translate(-50%, -50%) rotate(-25deg);
+}
+.edit {
+  display: block;
+  width: 100%;
+}
+.footer {
+  background-color: pink;
+  font-family: Inter, Roboto, Arial, Helvetica, sans-serif;
+  font-size: small;
+  font-weight: bold;
+  padding: 10px 5px 10px 5px;
+  text-align: center;
+}
+h1 {
+  font-size: xxx-large;
+  font-style: italic;
+  margin-top: 0;
+  padding-left: 20px;
+}
+h2 {
+  margin: 0px;
+  text-align: center;
+}
+.image-card img {
+  width: 45%;
+  margin: 10px;
+  object-fit: contain;
+  object-position: top;
+  align-self: flex-start;
+}
+input[type="text"] {
+  font-size: medium;
+}
+input#searchButton {
+  font-size: xx-large;
+  margin: 0;
+  padding: 2px;
+}
+input#update {
+  margin-top: 10px;
+}
+.menu {
+  background: lightgrey;
+  border-color: black;
+  border-style: solid;
+  border-width: thin;
+  color: black;
+  display: flex;
+  font-size: xx-large;
+  height: 3vw;
+  justify-content: space-between;
+  line-height: 3vw;
+  margin: 0 auto;
+  position: relative;
+  text-align: center;
+  white-space: nowrap;
+  width: 98%;
+}
+.menumobile {
+  background: lightgrey;
+  border-color: black;
+  border-style: solid;
+  border-width: thin;
+  box-sizing: border-box;
+  color: black;
+  font-size: x-large;
+  line-height: 6vw;
+  margin: 0 auto;
+  overflow: hidden;
+  padding-left: 10px;
+  padding-right: 10px;
+  position: relative;
+  text-align: center;
+  white-space: nowrap;
+  width: 98%;
+}
+.menu a {
+  cursor: pointer;
+  flex-grow: 1;
+  display: inline-block;
+  text-align: center;
+}
+.mobileletters {
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+}
+.panel {
+  align-items: start;
+  display: grid;
+  gap: 10px;
+}
+.statuscs {
+  font-weight: normal;
+}
+.statusnw {
+  animation: blink 1s step-end infinite;
+}
+.statuspc {
+  text-decoration: wavy;
+  text-decoration-line: line-through;
+}
+.statustc {
+  text-decoration: line-through;
+}
+
+summary {
+  color: blue;
+  cursor: pointer;
+  text-decoration: underline;
+}
+.ubercard {
+  column-gap: 20px;
+}
+.zoomable:hover {
+  transform-origin: center;
+  transform: scale(1.5);
+  transition: 0.2s;
+}
+.zoomableleft:hover {
+  transform-origin: left;
+  transform: scale(1.5);
+  transition: 0.2s;
+}
+.zoomablelight:hover {
+  transform-origin: left;
+  transform: scale(1.1);
+  transition: 0.4s;
+}
+.zoomableright:hover {
+  transform: scale(1.5);
+  transition: 0.2s;
+  transform-origin: right;
+}
+@keyframes blink {
+  50% {
+    opacity: 0;
+  }
+}
+/* Here are the CSS changes for mobile */
+@media (min-width: 1px) and (max-width: 630px) {
+  h1 {
+    font-size: medium;
+  }
+  .image-card img {
+    width: 90% !important;
+  }
+  input[type="text"],
+  input[type="submit"] {
+    font-size: small;
+    width: 90%;
+    box-sizing: border-box;
+  }
+  .menu {
+    display: none;
+  }
+  .menumobile {
+    display: block;
+  }
+  .panel {
+    grid-template-columns: 1fr;
+  }
+  .ubercard {
+    column-count: 1;
+  }
+}
+/* Here are the CSS changes for tablets up to 790px */
+@media (min-width: 631px) and (max-width: 790px) {
+  .menu {
+    display: none;
+  }
+  .menumobile {
+    display: block;
+    font-size: xx-large;
+  }
+  .panel {
+    grid-template-columns: repeat(1, 1fr);
+  }
+  .ubercard {
+    column-count: 1;
+  }
+}
+/* Here are the CSS changes for desktop up to 1280px */
+@media (min-width: 791px) and (max-width: 1270px) {
+  .menu {
+    display: none;
+  }
+  .menumobile {
+    display: block;
+    font-size: xx-large;
+  }
+  .panel {
+    grid-template-columns: repeat(2, 1fr);
+  }
+  .ubercard {
+    column-count: 2;
+  }
+}
+/* Here are the CSS changes for desktop up to 1920px */
+@media (min-width: 1271px) and (max-width: 1910px) {
+  .menu {
+    display: block;
+  }
+  .menumobile {
+    display: none;
+  }
+  .panel {
+    grid-template-columns: repeat(3, 1fr);
+  }
+  .ubercard {
+    column-count: 3;
+  }
+}
+/* Here are the CSS changes for desktop over 1920px */
+@media (min-width: 1911px) {
+  .menu {
+    display: block;
+  }
+  .menumobile {
+    display: none;
+  }
+  .panel {
+    grid-template-columns: repeat(4, 1fr);
+  }
+  .ubercard {
+    column-count: 4;
+  }
+}

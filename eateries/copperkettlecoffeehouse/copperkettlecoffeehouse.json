@@ -1,0 +1,41 @@
+{
+"name" : "Copper Kettle Coffee House",
+"status" : "",
+"link" : "", 
+"hours" : "(Sunday: 10:00 - 17:00), (Monday - Friday: 7:00 - 19:00), (Saturday: 10:00 - 17:00)", 
+"tel" : "", 
+"sms": "", 
+"address" : "194 Algoma Street South", 
+"map": "https://maps.app.goo.gl/NtPvEPpE8pS2g3rF6", 
+"updated" : "2025-10-31", 
+"courtesy" : "TL!",
+"text" : "
+Hot Drinks
+<br>Coffee 12oz / M: $3.50 16oz / L: $4.00
+<br>Tea 12oz / M: $4.00 16oz / L: $4.00
+<br>Americano (2 Shot) 12oz / M: $4.00 16oz / L: $4.00
+<br>Apple Cider 12oz / M: $4.00 16oz / L: $4.00
+<br>Hot Chocolate 12oz / M: $4.50 16oz / L: $5.50
+<br>London Fog 12oz / M: $5.50 16oz / L: $6.50
+<br>Matcha Latte 12oz / M: $5.50 16oz / L: $6.50
+<br>Chai Latte 12oz / M: $5.50 16oz / L: $6.50
+<br>Cappuccino 12oz / M: $5.50 16oz / L: $6.50
+<br>Latte 12oz / M: $5.50 16oz / L: $6.50
+<br>Flat White 12oz / M: $5.00
+<br>Copper Kettle Latte 16oz / L: $7.00
+<br>Espresso (2 Shot) 12oz / M: $3.00
+<br>Cortado 12oz / M: $4.50
+<br>Macchiato 12oz / M: $4.50
+<br>Copper Caramel Macchiato 16oz / L: $7.00
+<br>Red Eye (2 Shot / 4 Shot) 12oz / M: $5.00 16oz / L: $6.00
+<br>Red Eye Caramel (6 Shot) 16oz / L: $8.00
+<br>Iced Drinks (16oz / L)
+<br>Iced Americano: $5.00 Iced Coffee: $5.00 Copper Kettle Iced Tea: $5.00 Iced Latte: $6.50 Iced London Fog: $6.50 Iced Matcha Latte: $6.50
+<br>Add-ons
+<br>Flavour Shot - Torani: $0.50 Extra Espresso Shot: $1.50
+<br>Baked Goods
+<br>Muffin: $4.00 Cookie: $4.00 Scone: $4.50 Date Square: $4.50 Cake Square: $5.00 Cupcake: $4.00 Regular Croissant: $5.00 Chocolate Croissant: $6.00 Cinnamon Bun: $6.00 Biscotti (x2): $2.50 Nanaimo Bar: $4.50
+<br>Food Items
+<br>Breakfast Sandwich: $8.00 Deli Sandwich: $10.00 Specialty Sandwich: $15.00 Copper Kettle Daily Soup (V): $8.00 Deli Sandwich + Soup: $17.00 Full Specialty + Soup: $22.00
+"
+}

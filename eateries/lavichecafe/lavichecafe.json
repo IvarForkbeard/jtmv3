@@ -1,0 +1,389 @@
+{
+"name" : "Laviche Cafe",
+"status" : "",
+"link" : "https://www.lavichecafe.ca/", 
+"hours" : "(Sunday: 10:00 - 14:00), (Thursday - Friday: 17:00 - 21:30), (Saturday: 10:00 - 14:00, 17:00 - 21:30)", 
+"tel" : "807-344-4200", 
+"sms": "", 
+"address" : "209 Red River Road", 
+"map": "https://maps.app.goo.gl/rQHJ3ynuTpMLZo7u8", 
+"updated" : "2026-02-09", 
+"courtesy" : "Justin Menu", 
+"text" : "
+<br>LAVICHÈ CAFÉ
+<br>Weekend Brunch Menu
+<br>Brunch | Served All Day (10 AM - 2 PM)
+<br>Mimosa
+<br>Prosecco + Orange Juice | 9.50
+<br>*Non-Alcoholic Available
+<br>Coffee/Tea
+<br>Brewed, Americano, Cappuccino, Latte | 3.50+
+<br>Orange Pekoe, Earl Grey, Chai, Herbal Teas (Ask Server), Latte | 3.50+
+<br>*Add On: Almond, Oat Milk, Flavoured Syrups | 0.50
+<br>*Add On: Liqueurs - Irish Cream, Kahlua, Frangelico, etc. | 6.50+
+<br>Chicken Parmesan Sandwich
+<br>Panko Crusted Parmesan Chicken topped with House Made Marinara, Parmesan + Mozzarella Cheese + Pesto Aioli served on an Italian Garlic Butter Toasted Bun. Served with Home Fries| 19
+<br>Eggplant Parmesan Sandwich
+<br>Panko Crusted Parmesan Eggplant topped with House Made Marinara, Parmesan + Mozzarella Cheese + Pesto Aioli served on an Italian Garlic Butter Toasted Bun. Served with Home Fries| 19
+<br>Bacon Summer Grill Cheese
+<br>Brie topped with Bacon Rhubarb Strawberry Jam, grilled + melted into a soft Butter Toasted Italian Bun. Served with Home Fries| 17
+<br>Roasted Garlic Caesar Salad
+<br>House Made Roasted Garlic + Parmesan Caesar Dressing tossed with Romaine Lettuce, Crispy Bacon + House Made Croutons | 13
+<br>LAVICHÈ CAFÉ
+<br>Weekend Brunch Menu
+<br>Brunch | Served All Day (10 AM - 2 PM)
+<br>Mimosa
+<br>Prosecco + Orange Juice | 9.50
+<br>*Non-Alcoholic Available | 7.50
+<br>Coffee/Tea
+<br>Brewed, Americano, Cappuccino, Latte | 3.50+
+<br>Orange Pekoe, Earl Grey, Chai, Herbal Teas (Ask Server), Latte | 3.50+
+<br>*Add On: Almond, Oat Milk, Flavoured Syrups | 0.50
+<br>*Add On: Liqueurs - Irish Cream, Kahlua, Frangelico, etc. | 6.50+
+<br>Ham + Cheese Scrambler
+<br>Scrambled Eggs topped with Ham, Old Cheddar Cheese + House Made Hollandaise Sauce served on a bed of Home Fries | 17.00
+<br>Western Omelet
+<br>Egg Omelet filled with Ham, Red Pepper + Old Cheddar Served with a Butter Toasted English Muffin | 16.50
+<br>Eggs Benedict
+<br>Poached Eggs (2) served on a Butter Toasted English Muffins, topped with Crispy Bacon + House Made Hollandaise Sauce, served with Home Fries | 16.50, Tenderloin | +4
+<br>Bananas Foster French Toast
+<br>Thick Cut French Bread Soaked in Custard + Grilled, topped with Brown Sugar Glazed Bananas. Served with Whipped Cream + Peppered Bacon | 19
+<br>Café Signature Finn Pancakes
+<br>Finn Pancakes (3) topped with House Made Berry Compote + Whipped Cream | 16
+<br>Simply Complete Breakfast
+<br>Eggs (2) Sunnyside Up, Over Easy, or Poached, Home Fries, a Finn Pancake, English Muffin + a Side Option: Bacon / Sausage | 17.50
+<br>Protein Power Breakfast
+<br>Eggs (5) Sunnyside Up, Over Easy, or Poached, Home Fries, + a Side Option: Bacon / Sausage | 20
+<br>Meal Add Ons: Finn Pancakes (1) 4.00, Butter Toasted English Muffin (1) 3.00, Maple Syrup 3.00, Extra Bacon 3.50, 1 Egg (Any Style) 3.50, Hollandaise 4.00
+<br>**4 Item Minimum If Not A Guests' Meal Add On
+<br>Parmigiana + Arancini Bar Menu
+<br>EGGPLANT PARMESAN SANDWICH + HOME FRIES
+<br>Panko Crusted Eggplant, Marinara, Parmesan + Mozzarella Che...
+<br>CA$19.00
+<br>CHICKEN PARM SANDWICH
+<br>CA$19.00
+<br>SUB - SIDE CAESAR 5CA5.00
+<br>ARANCINI - BOLOGNESE (4) WITH SAUCE
+<br>Panko Parmesan Crusted Risotto Balls Filled With Bolognese + Mozzarella
+<br>CA$15.00
+<br>ARANCINI - MUSHROOM GOAT CHEESE HONEY
+<br>Panko Parmesan Crusted Risotto Balls Filled With Mushroom, Goat Cheese, Caramelized Onions, Hon...
+<br>CA$15.00
+<br>ARANCINI - MARGARITA (4) WITH SAUCE
+<br>Panko Parmesan Crusted Risotto Balls Filled With Classic Margarita + Mozzarella
+<br>CA$15.00
+<br>CRISPY CRUSTED ARTICHOKES (10) WITH GARLIC AIOLI
+<br>CA$15.00
+<br>CAESAR SALAD
+<br>House Made Garlic + Parmesan Caesar Dressing Tossed With Romaine Lettuce, Crispy Bacon + Hous...
+<br>CA$13.00
+<br>**CRISPY ARTICHOKES
+<br>CA$16.00
+<br>**CRISPY ARTICHOKE
+<br>CA$10.00
+<br>**ARANCINI - MARGARITA
+<br>CA$10.00
+<br>**ARANCINI - MUSHROOM
+<br>CA$10.00
+<br>**ARANCINI - BOLO
+<br>CA$10.00
+<br>**ARANCINI - SHRIMP
+<br>CA$10.00
+<br>**HERBED GARLIC BEAN DIP
+<br>CA$10.00
+<br>**POLENTA BITES - ROASTED TOMATO RICOTTA PESTO AIOLI
+<br>CA$10.00
+<br>**CRISPY RAVIOLI - RICOTTA
+<br>CA$10.00
+<br>**MUSHROOM GOAT CHEESE DIP
+<br>CA$10.00
+<br>**ITALIAN POLPETTE
+<br>CA$10.00
+<br>**FLATBREAD - PROSCIUTTO ARUGULA BALSAMIC
+<br>CA$10.00
+<br>**FLATBREAD - CLASSIC MARGARITA
+<br>CA$10.00
+<br>**FLATBREAD - ITALIAN HOT HONEY
+<br>CA$10.00
+<br>**RED - CAB SAUV
+<br>CA$10.00
+<br>**RED - MERLOT
+<br>CA$10.00
+<br>**RED - PINOT NOIR
+<br>CA$10.00
+<br>**RED - SHIRAZ
+<br>CA$10.00
+<br>**WHITE - CHARDONNAY
+<br>CA$10.00
+<br>**WHITE - SAUV BLANC
+<br>CA$10.00
+<br>**WHITE - PINOT GRIGIO
+<br>CA$10.00
+<br>**BAR RAIL - VODKA
+<br>CA$10.00
+<br>**BAR RAIL - RUM
+<br>CA$10.00
+<br>**BAR RAIL - WHISKY
+<br>CA$10.00
+<br>**BAR RAIL - GIN
+<br>CA$10.00
+<br>**BEER - NORTHERN LAGER
+<br>CA$8.00
+<br>**BEER - PERONI
+<br>CA$8.00
+<br>**BAR RAIL + 13CA13.00
+<br>**WINE SPRITZER
+<br>CA$11.00
+<br>SUNDAY BRUNCH IN HOUSE
+<br>BUFFET KIDS UNDER 14
+<br>CA$16.00
+<br>BREAKFAST BUFFET 10:00 AM
+<br>CA$40.00
+<br>BRUNCH BUFFET 11:30
+<br>CA$50.00
+<br>MIMOSA 7.50
+<br>CA$7.50
+<br>CHAI TEA LATTE - Regular
+<br>CA$4.25
+<br>Currently unavailable
+<br>LATTE - Iced (Regular)
+<br>CA$3.75
+<br>Currently unavailable
+<br>LONDON FOG (Van Syrup) - Large
+<br>CA$5.00
+<br>TEA - Large
+<br>CA$4.00
+<br>Currently unavailable
+<br>BREWED COFFEE - Medium
+<br>CA$3.25
+<br>Currently unavailable
+<br>CAFFÈ AMERICANO - Medium
+<br>CA$3.75
+<br>Currently unavailable
+<br>CAPPUCCINO - Medium
+<br>CA$4.50
+<br>Currently unavailable
+<br>ADD ON: OATMEAL MILK
+<br>CA$0.50
+<br>ESPRESSO - Single Shot
+<br>CA$2.50
+<br>Currently unavailable
+<br>CAFFÈ LATTE - Regular
+<br>CA$4.25
+<br>ADD ON: Flavor Syrup - Open
+<br>CA$0.75
+<br>JUICE 1
+<br>CA$3.00
+<br>JUICE/SAN PELLEGRINO
+<br>CA$4.00
+<br>MILK - 2% - Glass
+<br>CA$3.50
+<br>IRISH COFFEE MDAY
+<br>CA$9.50
+<br>CHARCUTERIE & CHEESE , FRUIT & ACOMPANIMENTIS
+<br>CA18.00CA8.00
+<br>NORTHERN LAGER - CAN
+<br>CA$8.00
+<br>PERONI BEER - Bottle
+<br>Italian Beer
+<br>CA$8.00
+<br>BAR SHOT SINGLE
+<br>CA$11.75
+<br>BAR SHOT DOUBLE
+<br>CA$15.00
+<br>BRANDY - Bar Shot
+<br>CA$11.00
+<br>POP - Gingerale
+<br>CA$4.00
+<br>POP - Diet Cola
+<br>CA$2.75
+<br>POP - Cola
+<br>CA$4.00
+<br>POP - 7 Up
+<br>CA$4.00
+<br>MARTINI
+<br>CA$11.00
+<br>LEMONCELLO SPRITZER
+<br>CA$12.00
+<br>LEMONCELLO SPRITZER special
+<br>CA$11.00
+<br>WINE SPRITZER
+<br>CA$7.50
+<br>SATURDAY BREAKFAST BUFFET
+<br>CA$37.00
+<br>Thursday - Saturday - After 5PM
+<br>55−3COURSETASTING−RAVIOLI−EGGPLANTPARMCA55.00
+<br>55−3COURSETASTING−RAVIOLI−CHICKENPARMCA55.00
+<br>**CRISPY ARTICHOKE
+<br>CA$10.00
+<br>**ARANCINI - MARGARITA
+<br>CA$10.00
+<br>**ARANCINI - MUSHROOM
+<br>CA$10.00
+<br>**HERBED GARLIC BEAN DIP
+<br>CA$10.00
+<br>**POLENTA BITES - ROASTED TOMATO RICOTTA PESTO
+<br>CA$10.00
+<br>**CRISPY RAVIOLI - RICOTTA
+<br>CA$10.00
+<br>**MUSHROOM GOAT CHEESE DIP
+<br>CA$10.00
+<br>**ITALIAN POLPETTE
+<br>CA$10.00
+<br>**FLATBREAD - PROSCIUTTO ARUGULA BALSAMIC
+<br>CA$10.00
+<br>**FLATBREAD - CLASSIC MARGARITA
+<br>CA$10.00
+<br>**FLATBREAD - ITALIAN HOT HONEY
+<br>CA$10.00
+<br>CHICKEN PARMESAN SANDWICH + HOME FRIES
+<br>Panko Crusted Parmesan Chicken + House Made Marinara, Parmesan + Mozzarella Che...
+<br>CA$19.00
+<br>MEATBALL PARMESAN SANDWICH + FRIES
+<br>House Made Italian Meatball Patty topped with Marinara, Mozzarella, Parmesan, Fresh Basil, Che...
+<br>CA$19.00
+<br>EGGPLANT PARMESAN SANDWICH + HOME FRIES
+<br>Panko Crusted Parmesan Eggplant topped with House Made Marinara, Parmesan + Mozzarella Che...
+<br>CA$19.00
+<br>CAESAR SALAD
+<br>House Made Garlic + Parmesan Caesar Dressing tossed with Romaine Lettuce, Crispy Bacon + Hous...
+<br>CA$13.00
+<br>ARANCINI - MARGARITA (4) WITH SAUCE
+<br>Panko Parmesan Crusted Risotto Balls Filled With Classic Margarita + Mozzarella
+<br>CA$15.00
+<br>COCONUT SHRIMP (7)
+<br>CA$15.00
+<br>SUB - SIDE CAESAR 5CA5.00
+<br>PANZO - CLASSIC PEPPERONI + CAESAR
+<br>CA$15.50
+<br>PANZO - CLASSIC MARGARITA + CAESAR
+<br>CA$15.50
+<br>PANZO - SPICY ITALIAN + CAESAR
+<br>CA$15.50
+<br>**RED - CAB SAUV
+<br>CA$10.00
+<br>**RED - MERLOT
+<br>CA$10.00
+<br>**RED - PINOT NOIR
+<br>CA$10.00
+<br>**RED - SHIRAZ
+<br>CA$10.00
+<br>**WHITE - CHARDONNAY
+<br>CA$10.00
+<br>**WHITE - SAUV BLANC
+<br>CA$10.00
+<br>**WHITE - PINOT GRIGIO
+<br>CA$10.00
+<br>**BAR RAIL - VODKA
+<br>CA$10.00
+<br>**WINE SPRITZER
+<br>CA$11.00
+<br>**BAR RAIL - RUM
+<br>CA$10.00
+<br>**BAR RAIL - WHISKY
+<br>CA$10.00
+<br>**BAR RAIL - GIN
+<br>CA$10.00
+<br>**BAR RAIL + 13CA13.00
+<br>**BEER - NORTHERN LAGER
+<br>CA$8.00
+<br>**BEER - PERONI
+<br>CA$8.00
+<br>CARAMEL DRIZZLED CHOCOLATE TORTA
+<br>CA$7.00
+<br>DESSERT
+<br>CARAMEL DRIZZLED CHOCOLATE TORTA
+<br>CA$7.00
+<br>RICOTTA CREAM CANNOLI (2 Small)
+<br>CA$7.00
+<br>Beverages - Hot + Cold
+<br>CHAI TEA LATTE - Regular
+<br>CA$4.25
+<br>Currently unavailable
+<br>LONDON FOG (Van Syrup) - Large
+<br>CA$5.00
+<br>CAFFÉ LATTE - White Choc Mocha
+<br>CA$5.00
+<br>Currently unavailable
+<br>CAFFÉ LATTE - Choc Mocha
+<br>CA$5.00
+<br>Currently unavailable
+<br>LATTE - Iced (Regular)
+<br>CA$3.75
+<br>Currently unavailable
+<br>TO GO - LATTE VANILLA
+<br>CA$4.75
+<br>TO GO - LATTE VANILLA - Sugar Free
+<br>CA$4.75
+<br>TO GO - LATTE CARAMEL
+<br>CA$4.75
+<br>TO GO - Latte Regular
+<br>CA$4.25
+<br>CAFFÉ LATTE - Regular
+<br>CA$4.25
+<br>BREWED COFFEE - Medium
+<br>CA$3.25
+<br>Currently unavailable
+<br>BREWED COFFEE - Large
+<br>CA$4.00
+<br>CAPPUCCINO - Medium
+<br>CA$4.50
+<br>Currently unavailable
+<br>GG-CAPPUCCINO - Medium
+<br>CA$4.00
+<br>CAFFÉ AMERICANO - Medium
+<br>CA$3.75
+<br>Currently unavailable
+<br>GG-CAFFÉ AMERICANO - Regular (3 Shots)
+<br>CA$4.00
+<br>ADD ON: Coffee Syrup - Vanilla
+<br>CA$0.50
+<br>ADD ON: Coffee Syrup - Caramel
+<br>CA$0.50
+<br>TO GO - Beverage - Extra Syrup (1)
+<br>CA$0.50
+<br>ALCOHOL
+<br>WINE - GLASS - MASI VALO - 6 OZ
+<br>CA$12.00
+<br>MASI - Valpolicella (Italy) - Bottle
+<br>CA$38.00
+<br>WINE - GLASS - MASI CAMPO - 6 OZ
+<br>CA$13.50
+<br>MASI - Campofiorin (Italy) - Bottle
+<br>CA$50.00
+<br>ORSO BRUNO - Zinfandel (Italy) - Bottle
+<br>CA$38.00
+<br>ORSO BRUNO - Zinfandel (Italy) - Bottle
+<br>CA$38.00
+<br>LAVICHÈ CAFÉ
+<br>APERITIVO
+<br>Taste of Italy
+<br>Tradition of Italy
+<br>CRISPY FRIED ARTICHOKES | CRISPY PANKO PARMESAN CRUSTED ARTICHOKE HEARTS SERVED WITH AIOLI
+<br>ARANCINI | PANKO CRUSTED RISOTTO BALLS FILLED CHEF'S CHOICE (ASK YOUR SERVER)
+<br>HERBED ROASTED GARLIC BEAN DIP | WHIPPED WHITE BEANS + EVO ROASTED GARLIC WHIPPED CREAMY, TOPPED WITH A FRESH HERBED GARLIC OIL, SERVED WITH HOUSE MADE CRISPS
+<br>MUSHROOM GOAT CHEESE DIP | WARM MUSHROOM DUXELLE OVER WHIPPED GOAT CHEESE TOPPED WITH PARMESAN CRISPS
+<br>POLENTA BITES | CRISPY PANKO PARMESAN CRUSTED POLENTA TOPPED WITH A WHIPPED RICOTTA AND ROASTED TOMATO BRUSCHETTA, GARNISHED WITH PESTO AIOLI
+<br>CRISPY RAVIOLI | HOUSE MADE RICOTTA RAVIOLI CRUSTED WITH PANKO + PARMESAN SERVED WITH MARINARA OR GARLIC AIOLI
+<br>ITALIAN POLPETTE | HOUSE MADE CLASSIC MINCED PORK + BEEF MEATBALLS BRAISED IN OUR HOUSE MADE MARINARA
+<br>FLATBREADS | HOUSE MADE FLATBREADS WITH THE OPTION OF: PROSCIUTTO ARUGULA | CLASSIC MARGARITA | ITALIAN HOT HONEY
+<br>LAVICHÈ CAFÉ
+<br>Tasting Menu
+<br>3 COURSE DINNER - $55 | PP
+<br>COURSE 1
+<br>Arancini
+<br>Panko Parmesan Crusted Risotto Ball Filled with Bolognese + Mozzarella
+<br>Italian Wedding Soup
+<br>A House Made Traditional Braised Chicken + Vegetable Broth with Italian Beef Meatballs
+<br>COURSE 2
+<br>Caesar Salad
+<br>Crispy Romaine Lettuce tossed in our House Made Garlic Caesar Dressing, Croutons + Bacon topped with Parmesan
+<br>COURSE 3
+<br>(Select 1)
+<br>Chicken Parmigiana + Potato Gnocchi/Ravioli
+<br>A Panko Crusted Parmesan Chicken Breast topped with House Made Marinara, Parmesan + Mozzarella. Served with your choice of our House Made Gnocchi or Ravioli tossed in our Feature Sauce (ask Server)
+<br>OR
+<br>Eggplant Parmigiana + Potato Gnocchi/Ravioli
+<br>A Panko Crusted Parmesan Eggplant topped with House Made Marinara, Parmesan + Mozzarella. Served with your choice of our House Made Gnocchi or Ravioli tossed in our Feature Sauce (ask Server)
+"
+}

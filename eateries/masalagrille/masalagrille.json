@@ -1,0 +1,238 @@
+{
+"name" : "Masala Grille",
+"status" : "",
+"link" : "", 
+"hours" : "(Sunday: 16:00 - 20:15), (Tuesday - Thursday: 16:00 - 20:15), (Friday: 11:30 - 14:00, 16:00 - 20:15), (Saturday: 16:00 - 20:15)", 
+"tel" : "tel: 807-344-3663", 
+"sms": "", 
+"address" : "Address: 170 Algoma Street North", 
+"map": "https://maps.app.goo.gl/6FxzGRzsReLNxRtS6", 
+"updated" : "Updated: 2025-11-22", 
+"courtesy" : "Courtesy: Justin Menu",
+"image0" : "img (4).webp",
+"image1" : "img (5).webp",
+"image2" : "img (6).webp",
+"text" : "
+Appetiser Menu
+<br>Indian Appetisers
+<br>Chicken 65 Boneless pieces of chicken breast marinated with spices, battered and deep fried in rice flour. 17.95 (GF)*
+<br>
+<br>Pakoras Vegetarian fritters made with shredded potatoes, onion, carrot and deep-fried in chickpea flour batter. 10.95 (12 pcs) (V) (GF)*
+<br>
+<br>Paneer Pakoras Indian-style cheese marinated in mint and deep-fried with chickpea flour batter. 14.95 (G)
+<br>
+<br>Fish Pakora Basa fish deep-fried in a chickpea flour batter, served with our mint coriander chutney. 17.95 (GF)*
+<br>
+<br>Keema Samosas Deep-fried pastries stuffed with minced chicken and peas. 10.95 (2 pcs) (G)
+<br>
+<br>Vegetarian Samosas Deep-fried pastries stuffed with potatoes and peas. 10.95 (2 pcs) (G)
+<br>
+<br>Paneer Tikka Samosas Deep-fried pastries stuffed with savoury Indian-style cheese. 12.95 (2 pcs) (G)
+<br>
+<br>Samosa Chana Chaat Pieces of samosa topped with chickpeas, yoghurt and Indian chutneys. For vegan option, ask for no yoghurt. 10.95 (2 pcs) (G)
+<br>
+<br>Aloo Tikki Chaat Potato patties stuffed with seasoned paneer and peas, topped with yoghurt and Indian chutney. 9.95 (2 pcs) (G)
+<br>
+<br>Hara Bhara Kabab Indian patties made of spinach, potatoes, lentils & Indian-style cheese. 14.95 (5 pcs) (GF)*
+<br>
+<br>Dahi Kebabs Browned patties with a lightly spiced yoghurt and paneer filling. 12.95 (5 pcs) (G)
+<br>
+<br>Pappadam Roasted lentil crackers. 5.95 (5 pcs) (V) (GF)
+<br>
+<br>Masala Pappadam Roasted lentil crackers, served with a side of katchumbar salad. 8.95 (5 pcs) (V) (GF)
+<br>
+<br>Veg Manchurian Deep-fried vegetable balls made with finely chopped cabbage, carrots, and other vegetables, all tossed in a flavourful, sweet, and spicy sauce. 15.95 (V) (GF)*
+<br>
+<br>Goli Kebabs Spiced cheese & corn balls in a crispy breading. 12.95 (12 pcs) (G)
+<br>
+<br>Masala Potato Wedges Deep-fried potato wedges seasoned with Indian spices. 10.95 (V) (GF)*
+<br>
+<br>Thai Appetisers
+<br>Vegetarian Spring Rolls Seasoned vegetables wrapped in a crispy wrap & served with a sweet Thai chilli sauce. 10.95 (8 pcs) (V)(G)
+<br>
+<br>Chicken Satay Skewers of sliced chicken breast, marinated in exotic herbs & cooked on a piece of coal. 16.95 (4 pcs)
+<br>
+<br>Tiger Prawns with Tamarind Marinated batter fried tiger prawns served with a tangy tamarind dipping sauce. 18.95 (G)
+<br>
+<br>Coconut Shrimp Tender, sweet & crispy coconut-encrusted shrimp and served with a sweet Thai chilli sauce. 17.95 (G)
+<br>
+<br>Tandoori Appetisers
+<br>Jheenga Adraki Mouthwatering spicy tiger-prawns flavoured with ginger & roasted in our clay oven. Served with coriander & mint chutney. 18.95 (GF)*
+<br>
+<br>Doodhiya Murgh Tikka Boneless chicken breast cubes marinated in a rich cream sauce, flavoured with cardamom & roasted in our clay oven. Served with coriander & mint chutney. 17.95 (GF)*
+<br>
+<br>Tandoori Murgh Tikka Boneless chicken breast cubes marinated with traditional tandoori spices & roasted in our clay oven. Served with coriander & mint chutney. 16.95 (GF)*
+<br>
+<br>Paneer Tikka Indian-style cheese, bellpeppers and onions marinated with traditional tandoori spices & roasted in our clay oven. Served with coriander & mint chutney. 17.95 (GF)*
+<br>
+<br>Indian Street Food
+<br>Pav Bhaji A mashed mixture of potatoes, onion, tomatoes & peas cooked in a tamarind-based pao pad sauce, topped with nuts. 14.95 (G)
+<br>
+<br>Pani Puri Deep-fried hollow shells filled with spicy mixture of potatoes, chickpeas & mint-coriander chutney. Served with sweet, spicy & tangy flavoured water. 9.95 (V) (G)
+<br>
+<br>Dahi Puri Deep-fried hollow shells filled with potatoes, chickpeas. Topped with sweet and tangy tamarind & mint-coriander chutney, yoghurt & sev. (Fried chickpea flour noodles) 10.95 (G)
+<br>
+<br>Vada Pav A deep-fried potato fritters topped with chutneys and served in a toasted buttered bun. (2pcs) 9.95 (G)
+<br>
+<br>Bhel Puri A savoury blend of puffed rice, crunchy puri, nuts, onions, tomatoes, coriander & tamarind chutney. 8.95 (V) (GF)
+<br>
+<br>Vegetable Dishes
+<br>Aloo Gobhi Potatoes & cauliflower tossed with onion, tomato & fresh ginger gravy. 17.95 (V) (GF)
+<br>
+<br>Gobhi Taka Tin Cauliflower tossed with bell peppers in a tomato onion base gravy. 17.95 (V) (GF)
+<br>
+<br>Bhindi Do Pyaza Okra and onions cooked in a tomato onion gravy. 17.95 (GF)* (V)
+<br>
+<br>Chana Masala Chickpeas in a tomato onion gravy. 15.95 (GF) (V)
+<br>
+<br>Dal Lentils tempered with Indian spices - varies daily. 15.95 (V) (GF)
+<br>
+<br>Dal Makhani Lentils seasoned with butter, cream, and a blend of aromatic spices. 16.95 (GF)
+<br>
+<br>Khumb Jhalfrezi Mushrooms tossed with bell peppers & onions in a tomato onion base gravy. 17.95 (GF)* (V)
+<br>
+<br>Mixed Vegetable Neelgiri Vegetables cooked with spinach and mint. 17.95 (GF) (V)
+<br>
+<br>Mixed Vegetable Coconut Masala Assorted vegetables cooked in a coconut & tomato onion gravy. 17.95 (GF) (V)
+<br>
+<br>Mixed Vegetable Makhani Assorted vegetables cooked in a creamy tomato base sauce. 17.95 (GF)
+<br>
+<br>Mixed Vegetable Makhan Masala For those who are looking more savoury version of mixed vegetable makhani. 17.95 (GF)
+<br>
+<br>Aloo Palak Potatoes cooked with spinach. 17.95 (V) (GF)*
+<br>
+<br>Subz Miloni Mixed vegetables cooked in a mild creamy cashew nut base sauce. 17.95 (GF)
+<br>
+<br>Thai Vegetable Curry (Red or Green) Mixed vegetables cooked in a flavourful coconut & kaffir lime base curry. 18.95 (V) (GF)
+<br>
+<br>Cauliflower & Beans with Cashew Nut Cooked in a green Thai coconut milk base curry. 18.95 (V) (GF)
+<br>
+<br>Sweet & Sour Vegetables with Cashew Nut Assorted vegetables and cashew nuts cooked in a sweet & spicy Thai style sauce. 17.95 (V) (GF)
+<br>
+<br>Mixed Vegetables with Quick Fried Basil Cooked in oyster and soya sauce. 17.95 (G)
+<br>
+<br>Paneer Dishes
+<br>Palak Makai Paneer Spinach, corn & Indian-style cheese cooked in an onion tomato gravy. 19.95 (GF)*
+<br>
+<br>Palak Paneer Spinach & Indian-style cheese cooked in an onion tomato gravy. 19.95 (GF)*
+<br>
+<br>Mattar Paneer Indian-style cheese and peas cooked in a mild creamy tomato cashew nut sauce. 19.95 (GF)*
+<br>
+<br>Paneer Achari Indian-style cheese cooked in a tomato, yoghurt & cashew nut base sauce flavoured with Indian pickle spices. 19.95 (GF)*
+<br>
+<br>Paneer Makhani Indian-style cheese cooked in a creamy tomato based sauce. Chef recommended! 19.95 (GF)
+<br>
+<br>Paneer Makhan Masala For those who are looking for more savoury version of paneer makhani. 19.95 (GF)
+<br>
+<br>Paneer Tikka Masala Indian-style cheese cooked in a creamy tomato onion cashew nut sauce. 19.95 (GF)*
+<br>
+<br>Paneer Goan Curry Indian-style cheese cooked in a savoury tomato onion coconut gravy. 19.95 (GF)*
+<br>
+<br>Kahrai Paneer Indian-style cheese cooked with bell peppers & onions in tomato onion based gravy. 19.95 (GF)*
+<br>
+<br>Chilli Paneer Fried pieces of Indian-style cheese tossed with bell peppers, onions in a spicy & tangy tomato base sauce. 19.95 (G)
+<br>
+<br>Rice & Noodle Dishes
+<br>Biryani Long grain basmati rice cooked with aromatic spices & as a base item of your choice. Vegetable 18.95 * Paneer 20.95 * Chicken 21.95 * Beef 22.95 * Lamb 25.95 (GF). Served with a side of Raita.
+<br>
+<br>Basmati Rice Small 3.50 * Large 6.50 (V) (GF)
+<br>
+<br>Pad Thai Chicken, shrimp and vegetables cooked with rice noodles in a tamarind-base pad thai sauce, topped with nuts. 20.95 (GF)
+<br>
+<br>Hakka Noodles A spicy Indo-Chinese style stir-fry noodle dish made with chicken, shrimp, bell peppers, onions & carrots. 20.95 (G)
+<br>
+<br>Naan & Sides
+<br>Naan Indian flatbread cooked in the tandoor oven.
+<br>
+<br>Plain Naan 4.25 (V) (G)
+<br>
+<br>Garlic Naan 4.75 (G)*
+<br>
+<br>Raita Naan 5.00 (G)
+<br>
+<br>Garlic Raita Naan with butter 5.50 (G)
+<br>
+<br>Garlic Yoghurt blended with Indian spices. 3.50 (GF)
+<br>
+<br>Mixed Vegetable Raita Raita mixed with cucumber, tomato & onions. 5.95 (GF)
+<br>
+<br>Lachcha Salad Sliced onions dressed with lemon juice & Indian spices. 3.95 (V) (GF)
+<br>
+<br>Achaar Indian-style spicy pickles. 2.50 (V) (GF)
+<br>
+<br>Salads
+<br>Katchumbar Salad An Indian-style salad made with diced cucumber, onion & tomatoes with a tangy lemon spiced dressing. 7.95 (V) (GF)
+<br>
+<br>Garden Salad A bed of lettuce topped with cucumber, tomato & onions. Served with a balsamic vinaigrette. 7.95 (V) (GF)
+<br>
+<br>Chickpea Salad (Chana Chaat) Indian-style chickpea salad with diced potato, cucumber & onion in a tangy lemon spiced dressing. 9.95 (V) (GF)
+<br>
+<br>À La Carte Menu
+<br>All entrées are served with a portion of rice.
+<br>
+<br>(V) - Vegan, (G) - Contains Gluten, (GF)* - Gluten free, however the item or an ingredient may have been deep fried or grilled in the same equipment as other gluten products.
+<br>
+<br>Chicken Dishes
+<br>Butter Chicken All time favourite boneless chicken cooked in a buttery and creamy tomato based sauce. 20.95 (GF)
+<br>
+<br>Murgh Makhan Masala For those who are looking for a savoury version of Butter Chicken. Chef recommended! 20.95 (GF)
+<br>
+<br>Murgh Korma Boneless chicken cooked in a rich and creamy cashew nut sauce with a cardamom finish. 20.95 (GF)
+<br>
+<br>Murgh Falgooni Boneless chicken simmered in a rich cashew nut sauce & tempered with garlic. 20.95 (GF)
+<br>
+<br>Hyderabadi Dum Ka Murgh Boneless chicken breasts cooked in a cashew nut cream base sauce, flavoured with coconut. Chef favourite! 20.95 (GF)
+<br>
+<br>Kahrai Murgh Marinated chicken tossed with bell peppers in a tomato onion sauce. 20.95 (GF)
+<br>
+<br>Methi Murgh Chicken cooked in a tomato,onion gravy finished with fenugreek. 20.95 (GF)
+<br>
+<br>Dhaba Chicken Curry Indian roadside chicken dish made with potatoes & cooked in a traditional tomato onion based gravy, finished with ginger. 19.95 (GF)*
+<br>
+<br>Murgh Vindaloo Boneless chicken cooked in a chilli garlic tomato onion gravy. 20.95 (GF)
+<br>
+<br>Murgh Tikka Masala Tandoor-roasted boneless chicken cooked in a creamy tomato onion cashew nut based sauce. 21.95 (GF)*
+<br>
+<br>Chicken Goan Curry Boneless chicken cooked in a savoury tomato onion coconut gravy. 20.95 (GF)
+<br>
+<br>Hakka Chilli Chicken Fried chicken pieces tossed with bell peppers, onions in a spicy & tangy tomato base sauce. 20.95 (G)
+<br>
+<br>Thai Chicken Curry (Red or Green) Chicken cooked in a flavourful coconut and kaffir lime based curry. 21.95 (GF)
+<br>
+<br>Stir-fry Chicken with Cashew nut Chicken and cashew nut cooked in oyster and soya sauce. 20.95 (G)
+<br>
+<br>Beef Dishes
+<br>Beef Vindaloo Boneless beef cooked in a chilli garlic tomato onion base gravy. 21.95 (GF)
+<br>
+<br>Beef Korma Boneless beef cooked in a creamy cashew nut tomato onion gravy, seasoned with cardamom. 21.95 (GF)
+<br>
+<br>Kahrai Beef Boneless beef, onion & bell peppers cooked in a tomato onion base gravy with a hot blend of spices. 21.95 (GF)
+<br>
+<br>Aloo Gosht An Indian-style beef and potato curry made in a classic tomato onion gravy, seasoned with spices. 20.95 (GF)*
+<br>
+<br>Lamb Dishes
+<br>Lamb Vindaloo Halal boneless lamb cooked in a chilli garlic tomato onion base gravy. 24.95 (GF)
+<br>
+<br>Lamb Korma Halal boneless lamb cooked in a creamy cashew nut tomato onion sauce, finished with cardamom. 24.95 (GF)
+<br>
+<br>Lamb Roganjosh Halal boneless lamb slow cooked in a blend of fragrant traditional Indian spices. 24.95 (GF)
+<br>
+<br>Kahrai Lamb Halal boneless lamb, onion & bell peppers cooked in a tomato onion base gravy with a hot blend of spices. 24.95 (GF)
+<br>
+<br>Seafood Dishes
+<br>Fish Curry Chickpea flour battered basa fish cooked in a tomato onion gravy. 20.95 (GF)*
+<br>
+<br>Fish Jalfrezi Chickpea flour battered basa fish cooked with bell peppers & onions in a tomato onion gravy. 20.95 (GF)*
+<br>
+<br>Prawn Goan Curry Tiger prawns/basa fish cooked in a savoury tomato onion coconut gravy. 21.95 (GF)
+<br>
+<br>Shrimp Vindaloo Shrimp cooked in a chilli garlic tomato onion gravy. 21.95 (GF)
+<br>
+<br>Thai Shrimp Curry (Red or Green) Shrimp cooked in a flavourful coconut and kaffir lime based curry. 22.95 (GF)
+<br>
+<br>Stir-fry Prawns with Spring Onion & Mushrooms Cooked with oyster and soya sauce. 21.95 (G)
+<br>
+<br>Masala Grille Buffet
+<br>Enjoy a family-style meal prepared by our chef featuring beef, chicken, paneer, vegetables, and lentil dishes, rice, pakoras and naan. 25.95
+"
+}

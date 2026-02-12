@@ -1,0 +1,269 @@
+{
+"name" : "Nook",
+"status" : "",
+"link" : "https://www.nookthunderbay.com/", 
+"hours" : "(Sunday - Saturday: 11:30 - 21:00)", 
+"tel" : "tel: 807-285-7775", 
+"sms": "", 
+"address" : "Address: 271 Bay Street", 
+"map": "https://maps.app.goo.gl/ZKuRF96UEcnUMo9Z8", 
+"updated" : "Updated: 2024-11-03", 
+"courtesy" : "Courtesy: Justin Menu", 
+"text" : "
+<br>Nook Lunch Menu
+<br>SOUP & SALAD
+<br>Greens, chickpeas, walnuts, red onion, pecorino - $15
+<br>
+<br>Caesar, bacon, Italian breadcrumbs - $17
+<br>
+<br>Chop Salad, cucumber, tomato, salami, olive, onion, chickpeas - $18
+<br>
+<br>Daily Soup - $7 / $14
+<br>
+<br>ANTIPASTI PLATES
+<br>Olives - $7
+<br>
+<br>Chicken Liver Crostini - $14
+<br>
+<br>Ricotta & Prosciutto Crostini - $17
+<br>
+<br>Bruschetta, Debruin's tomatoes, garlic, basil - $16
+<br>
+<br>Seasonal Veg - MP
+<br>
+<br>Pan Focaccia, bean dip - $11
+<br>
+<br>Meatballs, tomato sauce, focaccia - $17
+<br>
+<br>Burrata, pesto and tomatoes, focaccia - $26
+<br>
+<br>PUCCIA SANDWICHES (soup or salad)
+<br>BLT, bacon, tomato, lettuce, rosemary aioli - $19
+<br>
+<br>Meatball, mozzarella, tomato sauce - $19
+<br>
+<br>Caprese, tomato, boccocini, pesto, arugula - $19
+<br>
+<br>Muffuletta, prosciutto, mortadella, soppressata, tapanade - $19
+<br>
+<br>PASTA & PIZZA
+<br>Rigatoni Boscaiala - $26
+<br>
+<br>Gnocchi Pomodoro - $25
+<br>
+<br>Margherita, fresh basil, mozzarella - $24
+<br>
+<br>Vegetarian, tomato, pesto, lemon ricotta - $26
+<br>
+<br>Prosciutto, roasted garlic, arugula - $27
+<br>
+<br>Italian Sausage, roasted peppers, onion, herbs - $26
+<br>
+<br>Mediterranean, tomato, red onion, olives, feta - $26
+<br>
+<br>Diavola, spicy soppressata, Calabrian chilli - $26
+<br>
+<br>Pepperoni, Ezzo pepperoni - $25
+<br>
+<br>ADD-ONS
+<br>Roasted garlic - $3
+<br>
+<br>Olives - $3
+<br>
+<br>Calabrian chilies - $3
+<br>
+<br>Egg - $3
+<br>
+<br>Spinach - $5
+<br>
+<br>N'duja - $5
+<br>
+<br>Ezzo pepperoni - $4
+<br>
+<br>House sausage - $4
+<br>
+<br>Burrata - $11
+<br>
+<br>Anchovies - $3
+<br>
+<br>Prosciutto - $7
+<br>
+<br>Pepperoncini - $3
+<br>
+<br>Nook Dinner Menu
+<br>SOUP & SALAD
+<br>Greens, chickpeas, walnuts, red onion, pecorino - $15
+<br>
+<br>Caesar, bacon, Italian breadcrumbs - $17
+<br>
+<br>Chop Salad, cucumber, tomato, salami, olive, onion, chickpeas - $18
+<br>
+<br>Daily Soup - $7 / $14
+<br>
+<br>ANTIPASTI PLATES
+<br>Olives - $7
+<br>
+<br>Chicken Liver Crostini - $14
+<br>
+<br>Ricotta & Prosciutto Crostini - $17
+<br>
+<br>Bruschetta, Debruin's tomatoes, garlic, basil - $16
+<br>
+<br>Seasonal Veg - MP
+<br>
+<br>Pan Focaccia, bean dip - $11
+<br>
+<br>Meatballs, tomato sauce, focaccia - $17
+<br>
+<br>Burrata, pesto and tomatoes, focaccia - $26
+<br>
+<br>HOUSE MADE PASTA
+<br>Spaghetti Puttanesca - $25
+<br>
+<br>Spaghetti al Limone, preserved lemon, chillies - $26
+<br>
+<br>Mafalde, mushroom ragu - $26
+<br>
+<br>Rigatoni Bosciaiata - $26
+<br>
+<br>Rigatoni Arrabiata - $25
+<br>
+<br>Gnocchi Pomodoro - $25
+<br>
+<br>PIZZA
+<br>Margherita, fresh basil, mozzarella - $24
+<br>
+<br>Vegetarian, tomato, pesto, lemon ricotta - $26
+<br>
+<br>Prosciutto, roasted garlic, arugula - $27
+<br>
+<br>Italian Sausage, roasted peppers, onion, herbs - $26
+<br>
+<br>Mediterranean, tomato, red onion, olives, feta - $26
+<br>
+<br>Diavola, spicy soppressata, Calabrian chilli - $26
+<br>
+<br>Pepperoni, Ezzo pepperoni - $25
+<br>
+<br>ADD-ONS
+<br>Roasted garlic - $3
+<br>
+<br>Olives - $3
+<br>
+<br>Calabrian chilies - $3
+<br>
+<br>Egg - $3
+<br>
+<br>Spinach - $3
+<br>
+<br>N'duja - $5
+<br>
+<br>Ezzo pepperoni - $4
+<br>
+<br>House sausage - $4
+<br>
+<br>Burrata - $11
+<br>
+<br>Anchovies - $3
+<br>
+<br>Prosciutto - $7
+<br>
+<br>Pepperoncini - $3
+<br>
+<br>Nook Drinks Menu
+<br>SPARKLING
+<br>Prosecco, Latte Miel (9 Oz gls) - $15 | $46
+<br>
+<br>Rose Cava, Codorniu Cuvee Barcelona - $42
+<br>
+<br>Pet Nat, Menti Roncale sui Lieviti 9.5ABV - $47
+<br>
+<br>Lambrusco, Chiarli Castelvetrano - $8 | $32
+<br>
+<br>WHITE (gls/500)
+<br>Pinot Grigio, Luigi Righetti - $12 | $48
+<br>
+<br>Chardonnay, Tuff (Cal) - $15 | $60
+<br>
+<br>Chenin Blanc, Hussoch Jumper (SA) - $9 | $36
+<br>
+<br>Gavi di Gavi, Marchesi di Barolo - $13 | $52
+<br>
+<br>Sauvignon Blanc, Domaine de Villargeau - $12 | $48
+<br>
+<br>Etna Bianco, Tornatore Etarazzio - $64
+<br>
+<br>Chardonnay, Flowers (Cal) - $120
+<br>
+<br>ROSE
+<br>Rose, Boudry Dutour Marie Justine (Fr) - $12 | $48
+<br>
+<br>RED
+<br>Montepulciano, La Quercia - $13 | $52
+<br>
+<br>Primitivo, Schola Sarmenti - $13 | $52
+<br>
+<br>Pinotage, Fat Man (S. Afr) - $10 | $40
+<br>
+<br>Monca Cabella (SP) - $12 | $48
+<br>
+<br>Sognum Cab Sauv, Luigi Righetti - $13 | $52
+<br>
+<br>Brunello di Montalcino, Quercecchio - $78
+<br>
+<br>Cab Sauv/Merlot, Nederburg the Brew Master (S. Afr) - $42
+<br>
+<br>Cab Sauv, Doole Doole (Aus) - $58
+<br>
+<br>Amarone, Tedeschi - $95
+<br>
+<br>(organic)
+<br>
+<br>ITALIAN COCKTAIL/SPRITZ
+<br>Blackberry Spritz* blackberry Crown Royal, blackberry syrup, prosecco, lemon - $13
+<br>
+<br>Italian Spritz* Aperol, prosecco, soda - $12
+<br>
+<br>Espresso Martini espresso, Vodka, Kahlua, Galiano - $13
+<br>
+<br>Negroni Sbagliato Gnocchi Vermouth di Torino, Campari, gin/prosecco - $13
+<br>
+<br>Paper Plane Bourbon, Amaro Montenegro, Aperol, lemon - $13
+<br>
+<br>Hot Spiked Cider Bourbon, Amaro Montenegro, fresh pressed apple cider - $13
+<br>
+<br>N/A Italian Spritz non alcoholic Italian bitters, orange, soda - $10
+<br>
+<br>Can be made with sparkling water, Prosecco, or added to a non-alcoholic blend for an additional charge.
+<br>
+<br>Aperol can be a spicy chilli infused Aperol
+<br>
+<br>BEER ETC
+<br>Dawson Trail Border Run Cream Ale (can) - $8.5
+<br>
+<br>Peroni Lager (btl) - $8
+<br>
+<br>DRAUGHT
+<br>
+<br>Rotatin Ontario Craft Brews (16 Oz) - $8.5
+<br>
+<br>Moretti (10.20 Oz) - $5.5 / $10
+<br>
+<br>NON ALCOHOLIC
+<br>Coca Cola - $4
+<br>
+<br>Fever Tree Ginger Beer - $5
+<br>
+<br>Carato Carbonated Water - $4
+<br>
+<br>Gruvi Dry Secco, non alcoholic rose prosecco - $10
+<br>
+<br>House Lemonade/sparkling (variety of flavours) - $2
+<br>
+<br>Athletic N/A IPA or Blond (can) - $6
+<br>
+<br>Iced Coffee - $5",
+"image0" : "img3.webp",
+"image1" : "img4.webp",
+"image2" : "img5.webp"
+}

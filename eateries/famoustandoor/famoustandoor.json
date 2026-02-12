@@ -1,0 +1,203 @@
+{
+"name" : "Famous Tandoor",
+"status" : "",
+"link" : "https://www.famoustandoor.com/", 
+"hours" : "(Tuesday - Thursday: 13:00 - 20:00), (Friday: 15:00 - 20:00), (Saturday: 13:00 - 20:00)", 
+"tel" : "807-286-7864", 
+"sms": "", 
+"address" : "229 Pearl Street", 
+"map": "https://maps.app.goo.gl/sXj5PnPFW6KPCvNW8", 
+"updated" : "2025-08-17", 
+"courtesy" : "Justin Menu", 
+"text" : "MENU
+<br>We serve a range of fresh and delicious Indian and Pakistani dishes. Located in Thunder Bay, we use only high-quality ingredients in all of our preparations. At Famous Tandoor, you can expect a wide array of dishes from the East Indian subcontinent.
+<br>APPETIZERS
+<br>★ Vegetarian Samosas (3 PCS)
+<br>Delicious, freshly made triangular pastry filled with lightly
+<br>spiced onions, and potato, served with our tamarind chutney. (1 Tangy Tamarind Sauce included)
+<br>C$7.49
+<br>★ Crispy Pakoras (10 PCS)
+<br>Onions enveloped in a crispy, golden-brown chickpea 
+<br>batter, served with our tamarind chutney. (1 Tangy Tamarind Sauce included)
+<br>C$7.49
+<br>Channa Chaat
+<br>Spiced chickpea salad topped with onions, tomatoes, and 
+<br>chutneys for a tangy and refreshing street food dish.
+<br>C$6.99
+<br>Dahi Baray
+<br>Golden-fried lentil dumplings, in a savory yogurt base, 
+<br>crowned with aromatic spices and tamarind chutney
+<br>C$6.99
+<br>Samosa Chaat
+<br>Fried samosa topped with chickpeas, onions, tomatoes,
+<br>and tamarind sauce for a tangy treat.
+<br>C$8.49
+<br>Pakora Chaat
+<br>Fried pakoras topped with chickpeas, onions, tomatoes,
+<br>and tamarind sauce for a tangy treat.
+<br>C$8.49
+<br>MEAT LOVERS
+<br>All signature dishes are served with rice.
+<br>★ Tender Lamb Shank
+<br>Slow-cooked afghan-style lamb shank (bone-in), served with Qabli rice, topped with sautéed sweet raisins and carrots. (1 Creamy Garlic Sauce, and 1 Red-Hot Tandoor Chutney included)
+<br>C$19.49
+<br>★ Butter Chicken
+<br>Prime chicken breast pieces tossed in delicious, melt-in-the mouth sauce
+<br>C$16.99
+<br>★ Chicken Biryani
+<br>Flavourful, aromatic rice with marinated chicken, caramelized onions and spice. (1 Raita Yoghurt Sauce, and 1 Red-Hot Tandoor Chutney included)
+<br>C$14.49
+<br>★ Chicken Tikka
+<br>Quarted chicken leg marinated in yogurt, herbs and tandoori spices. (1 Raita Yoghurt Sauce and 1 Red-Hot Tandoor Chutney included)
+<br>C$14.49
+<br>Chicken Seekh Kebab
+<br>A succulent blend of minced meat, spices, sweet onions,
+<br>fresh coriander, expertly crafted into kebab form. (1 Tangy Tamarind Sauce, and 1 Red-Hot Tandoor Chutney included)
+<br>C$14.49
+<br>Beef Seekh Kebab
+<br>A succulent blend of minced meat, spices, sweet onions,
+<br>fresh coriander, expertly crafted into kebab form. (1 Tangy Tamarind, and 1 Red-Hot Tandoor Chutney included)
+<br>C$14.49
+<br>Tikka Kebab
+<br>Two skewers of succulent pieces of boneless chicken breast, expertly marinated in a signature blend of aromatic tikka spices. (1 Tangy Tamarind Sauce, and 1 Red-Hot Tandoor Chutney included)
+<br>C$16.49
+<br>Malai Kebab
+<br>Two skewers of succulent pieces of boneless chicken breast, expertly marinated in a signature blend of aromatic Malai chicken spices. (1 Tangy Tamarind Sauce, and 1 Red-Hot Tandoor Chutney included)
+<br>C$16.49
+<br>Tikka-Malai Kebab
+<br>Two skewers of succulent pieces of boneless chicken breast, expertly marinated in a signature blend of aromatic Tikka and Malai chicken spices. (1 Tangy Tamarind Sauce, and 1 Red-Hot Tandoor Chutney included)
+<br>C$16.99
+<br>Tikka-Seekh Kebab
+<br>Indulge in a delectable combination of two mouth-watering kebabs - one succulent Chicken Tikka Kebab, and one Seekh Kebab.  (1 Tangy Tamarind Sauce, and 1 Red-Hot Tandoor Chutney included)
+<br>C$16.99
+<br>Malai-Seekh Kebab
+<br>Indulge in a delectable combination of two mouth-watering kebabs - one succulent Chicken Malai Kebab, and one Seekh Kebab.  (1 Tangy Tamarind Sauce, and 1 Red-Hot Tandoor Chutney included)
+<br>C$16.99
+<br>Tandoor Platter
+<br>Indulge in a delectable combination of three mouth-watering kebabs - one succulent Chicken Malai Kebab, Seekh Kebab, and one Tikka Kebab.  (1 Tangy Tamarind Sauce, and 1 Red-Hot Tandoor Chutney included)
+<br>C$18.99
+<br>Chicken Karahi
+<br>A tantalizing curry, cooked to perfection in a traditional 
+<br>wok-like pan called a 'Karahi' (mild, medium, or spicy)
+<br>C$17.49
+<br>Beef Karahi
+<br>A tantalizing curry, cooked to perfection in a traditional 
+<br>wok-like pan called a 'Karahi' (mild, medium, or spicy)
+<br>C$17.49
+<br>Lamb Karahi
+<br>A tantalizing curry, cooked to perfection in a traditional 
+<br>wok-like pan called a 'Karahi' (mild, medium, or spicy)
+<br>C$17.49
+<br>Beef Nihari
+<br>A slow-cooked, spice-infused beef stew with caramelized 
+<br>onions, a delectable comfort food - try it with our naan
+<br>C$16.99
+<br>Palak Gosht
+<br>A traditional spinach dish cooked with your choice of meat
+<br>C$17.49
+<br>★ Chicken Shawarma Platter
+<br>Deliciously marinated grilled chicken with homemade garlic sauce on rice, served with fresh salad and choice of spice level.
+<br>C$17.49
+<br>Keema Mutter
+<br>Classic Mughal inspired dish with ground beef, peas, and
+<br>cooked with herbs and spice
+<br>C$14.49 - Out of stock
+<br>VEGGIE HEAVEN
+<br>All vegetarian dishes are served with Basmati Rice.
+<br>Palak Paneer
+<br>A traditional spinach dish tossed with tasty chunks of paneer cheese
+<br>C$15.49
+<br>★ Channa Masala
+<br>Delicious chickpea curry cooked with a variety of aromatic spices.
+<br>C$12.49 - Out of stock
+<br>Butter Paneer
+<br>Paneer pieces tossed in delicious, melt-in-the mouth sauce
+<br>C$16.49
+<br>Butter Channa
+<br>Spiced chickpeas tossed in delicious, melt-in-the mouth sauce
+<br>C$15.99 - Out of stock
+<br>Paneer Karahi
+<br>A tantalizing curry with paneer, in a traditional wok-like pan called a 'Karahi' (mild, medium, or spicy)
+<br>C$16.49
+<br>RICE
+<br>Basmati Rice
+<br>Aromatic rice with each grain distinct and fluffy, making it
+<br>the perfect accompaniment to a wide range of savory dishes.
+<br>C$5.49
+<br>Matar (Peas) Basmati Rice
+<br>Aromatic rice with sweet, tender peas, making it the
+<br>perfect accompaniment to a wide range of savory dishes.
+<br>C$7.99
+<br>Egg-Fried Basmati Rice
+<br>Stir-fried aromatic rice with a scrambled egg and fresh
+<br>spring onions.
+<br>C$7.99
+<br>NAAN
+<br>Butter Naan
+<br>A soft and buttery flatbread, perfect for pairing with your 
+<br>favorite dishes.
+<br>C$2.49
+<br>Sesame Naan
+<br>A soft and buttery flatbread with a delightful crunch
+<br>from the sesame seeds sprinkled on top.
+<br>C$2.79
+<br>★ Garlic Naan
+<br>A soft and buttery flatbread,  topped with fresh garlic.
+<br>perfect for pairing with your favorite dishes.
+<br>C$2.99
+<br>Keema Naan
+<br>A savory and aromatic flatbread stuffed with spiced ground
+<br>chicken, onions, and herbs.
+<br>C$6.99
+<br>SWEET TREATS
+<br>Gulab Jamun (3 PCS)
+<br>Melt-in-the mouth, traditional milk doughnuts dipped in 
+<br>rose-cardamom syrup.
+<br>C$4.99 - Out of stock
+<br>Jalebi (4 PCS)
+<br>A sweet and crispy deep-fried spiral-shaped dessert soaked
+<br>in syrup, recognized by its bright orange hue.
+<br>C$4.99
+<br>Ras Malai (3 PCS)
+<br>Soft and spongy milk balls soaked in sweetened, thickened milk. Flavored with cardamom and garnished with chopped nuts.
+<br>C$5.99 - Out of stock
+<br>HOT DRINKS
+<br>Chai
+<br>A classic tea beverage that is brewed to perfection with 
+<br>black tea leaves and milk.
+<br>C$3.49
+<br>Karak Chai
+<br>A delicious and aromatic tea beverage that is made with 
+<br>black tea, milk, and a blend of spices, including cardamom.
+<br>C$3.99
+<br>Pink Chai
+<br>Also known as Kashmiri chai, is a unique and flavorful tea
+<br>beverage made with green tea leaves, milk, and spices.
+<br>C$3.99 - Out of stock
+<br>COLD DRINKS
+<br>Mango Lassi
+<br>A sweet and creamy yogurt-based drink that is blended
+<br>with ripe mango.
+<br>C$4.99
+<br>Bottled Water
+<br>C$1.49
+<br>Soft Drink (Can)
+<br>Coke, Pepsi, Sprite, Crush, Iced Tea, etc
+<br>C$1.99
+<br>Soft Drink (Bottle)
+<br>Coke, Pepsi, Sprite, Crush, Iced tea, etc
+<br>C$2.99
+<br>EXTRAS
+<br>Tangy Tamarind Chutney
+<br>Our signature sweet and tangy sauce made in-house with tamarind and a blend of traditional spices.
+<br>C$0.49
+<br>Red-Hot Tandoor Chutney
+<br>Our signature spicy sauce made in-house. Whether you're looking to add some heat to your meal or simply craving something with a little extra kick, our homemade spicy sauce is the perfect choice.
+<br>C$0.49
+<br>Raita Yoghurt Sauce
+<br>A traditional cooling and refreshing yogurt-based sauce made in-house. Whether you're looking to cool down your palate or add a burst of flavor to your meal, our homemade raita sauce is the perfect choice.
+<br>C$0.49
+<br>Creamy Garlic Sauce
+<br>Our creamy garlic sauce is a rich and flavorful condiment that is sure to add a burst of flavor to any dish.
+<br>C$0.49"
+}

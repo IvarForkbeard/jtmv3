@@ -1,0 +1,290 @@
+{
+"name" : "Devine Foods", 
+"link" : "", 
+"hours" : "", 
+"tel" : "807-355-6798", 
+"sms": "", 
+"address" : "1001 Montreal Street", 
+"map": "https://maps.app.goo.gl/xUUPpYCFAxn4PHiP6", 
+"updated" : "2025-07-14", 
+"courtesy" : "Justin Menu", 
+"text" : "Breakfast
+<br>Breakfast #1
+<br>Two eggs, home fries, and two toast.
+<br>$11.99
+<br>Breakfast #2
+<br>Two eggs, home fries, three sausages or bacon or ham, and two toast.
+<br>$15.49
+<br>Breakfast #3
+<br>Two eggs, home fries, three sausages or bacon or ham, two toast, and two cookies.
+<br>$17.99
+<br>Breakfast for Two
+<br>Four scrambled eggs, three bacons/three sausages/three ham (choose any two), home fries, and four toasts.
+<br>$27.99
+<br>Breakfast for Four
+<br>Eight scrambled eggs, six bacons/six sausages/ six ham (choose any two), home fries, eight toast, and one French toast.
+<br>$56.99
+<br>Omelets
+<br>Omelets are made with three eggs and comes with home fries and toast.
+<br>Western Omelet
+<br>Bacon, green pepper, and green onion.
+<br>$12.99
+<br>Denver Omelet
+<br>Ham, green pepper, and green onion.
+<br>$12.99
+<br>Ham and Cheese Omelet
+<br>$12.99
+<br>Spanish Omelet
+<br>Tomatoes, green pepper, green onion, cheese, and salsa sauce.
+<br>$14.49
+<br>Texas Omelet
+<br>Bacon, tomatoes, green pepper, green onion, and cheese.
+<br>$14.49
+<br>Meat Lover
+<br>Bacon, ham, sausage, and cheese.
+<br>$16.99
+<br>Salad
+<br>Garden Salad
+<br>Fresh Romaine lettuce, spinach, tomatoes, green peppers, cucumbers and carrots, served with choice of dressing.
+<br>$13.00
+<br>Caesar Salad
+<br>Fresh romaine lettuce, bacon bites, creamy caesar dressing, and croutons.
+<br>$13.00
+<br>Greek Salad
+<br>Red onion, cucumbers, feta cheese, and black olives.
+<br>$13.00
+<br>Chef Salad
+<br>Fresh Romaine lettuce, spinach, tomatoes, green peppers, cucumbers and carrots, ham, chicken, hard boiled eggs, cheese served with choice of dressing.
+<br>$19.99
+<br>Breakfast Sandwiches
+<br>Egg Sandwich
+<br>Made with two eggs and Cheese with choice of bread
+<br>$7.99
+<br>Veg Cheese Sandwich
+<br>Made with Potato filling with cucumber, tomatoes, onions and cheese
+<br>$7.99
+<br>Bacon Sandwich
+<br>Made with egg, bacon and Cheese with choice of bread
+<br>$7.99
+<br>Sausage Sandwich
+<br>Made with egg, sausage and Cheese with choice of bread
+<br>$7.99
+<br>Ham Sandwich
+<br>Made with egg, ham and Cheese with choice of bread
+<br>$7.99
+<br>BLT Sandwich
+<br>Bacon, fresh lettuce, tomatoes, cheese and mayo
+<br>$8.49
+<br>Grilled Ham and Cheese Sandwich
+<br>$8.99
+<br>Grilled Bacon and Cheese Sandwich
+<br>$8.99
+<br>Cold Sandwiches
+<br>Egg Salad
+<br>$8.49
+<br>Tuna Salad
+<br>$8.49
+<br>Cold Ham and Cheese Sandwich
+<br>Ham, cheese, lettuce, mayo in a tuxedo bun
+<br>$8.49
+<br>Cold Turkey and Cheese Sandwich
+<br>Turkey, cheese, lettuce, mayo in a tuxedo bun
+<br>$8.49
+<br>Cold Chicken and Cheese Sandwich
+<br>Chicken breast, cheese, lettuce, mayo in a tuxedo bun
+<br>$8.49
+<br>Mains
+<br>Poutine
+<br>Fries, Mozzarella cheese and gravy
+<br>$14.00
+<br>Chicken Caesar Wrap
+<br>Grilled Chicken, lettuce, crispy crotons with Caesar dressing
+<br>$13.00
+<br>Cheeseburger
+<br>Classic Cheeseburger
+<br>$7.99
+<br>Hamburger
+<br>Lettuce, onion, tomato, mayo, and mustard.
+<br>$7.99
+<br>Ham-con Burger
+<br>Lettuce, onion, tomato, mayo, mustard, and bacon.
+<br>$9.99
+<br>Chicken Burger
+<br>Chicken Burger with a side of fries. Lettuce, onion, tomato, mayo, and mustard.
+<br>$11.00
+<br>Hot Dog
+<br>Mustard and onion.
+<br>$5.99
+<br>Pogo Stick
+<br>$3.99
+<br>Veg Burger
+<br>Veg patty, onion, tomato, lettuce, mustard, and mayo.
+<br>$7.99
+<br>Quick Grubs
+<br>Chicken Strips (5 pcs)
+<br>Chicken Strips with a side of fries.
+<br>$14.99
+<br>Chicken Parmesan (2 pcs)
+<br>Chicken Parmesan with a side of fries.
+<br>$14.99
+<br>Crispy Chicken (4 pcs)
+<br>$14.99
+<br>Tacos (3 pcs)
+<br>ground beef served with lettuce and tomatoes
+<br>$9.99
+<br>Add-Ons and Sides
+<br>Onion Ring
+<br>$10.00
+<br>Cereal
+<br>Assorted cereal comes with 2% milk.
+<br>$7.49
+<br>Side Gravy
+<br>$6.00
+<br>Bacon (3 pcs)
+<br>$4.49
+<br>Sausage (3 pcs)
+<br>$4.49
+<br>French Toast
+<br>Per toast.
+<br>$3.49
+<br>Ham (3 pcs)
+<br>$4.49
+<br>One Egg
+<br>$1.99
+<br>Beverages
+<br>Coffee (12 oz)
+<br>$1.99
+<br>Tea (12 oz)
+<br>$1.99
+<br>Pop (Can 355 mL)
+<br>See Item
+<br>Pop (Bottle)
+<br>See Item
+<br>Juice (Bottle)
+<br>See Item
+<br>Water
+<br>$2.49
+<br>Milk 2% (473ml)
+<br>$3.49
+<br>Chocolate Milk 1% (473ml)
+<br>$3.99
+<br>Monster Green
+<br>$4.99
+<br>Monster Zero
+<br>See Item
+<br>Rockstar
+<br>See Item
+<br>Red Bull 355mL
+<br>$5.50
+DEVINE FOODS
+<br>CONTACT: 8073556798/6478626213
+<br>DEVINEFOOD1@GMAIL.COM
+<br>STARTERS - VEG
+<br>Paneer Tikka/ Malai/ Chilly
+<br>Samosa
+<br>Spring rolls
+<br>Dahi Bhalla
+<br>Veg Manchurian
+<br>Cauliflower Bites
+<br>Channa Chaat
+<br>Aloo tikki
+<br>Papdi Chat
+<br>Sweet corn Chat
+<br>STARTERS- NON VEG
+<br>Chiken Tikka
+<br>Malai Tikka
+<br>Tandoori Chicken
+<br>Chicken 65
+<br>Chicken Wontons
+<br>Green Chiken Tikka
+<br>Kababs
+<br>Crispy Butter Chicken
+<br>SOUPS
+<br>Hot and Sour
+<br>Creamy Tomato
+<br>Lemon Coriander
+<br>Manchau
+<br>SIDES
+<br>Veg Cheese Sandwich
+<br>Grilled Cheese
+<br>Cheese Jam
+<br>Aloo Paratha
+<br>Pav Bhaji/Green Bhaji
+<br>Sev Usual
+<br>Vada pav
+<br>Dabeli
+<br>Masala Fries
+<br>Chicken Strips/Nuggets
+<br>Idli Sambhar
+<br>Uttapam
+<br>Chinese Bhel
+<br>Hakka Noodles
+<br>Szechvan Noodles
+<br>Veg Fried Rice
+<br>Chole Bhature
+<br>MAINS-VEG
+<br>Mix Veg
+<br>Chole
+<br>Malai Kofta
+<br>Stuffed Eggplant
+<br>Bhindi
+<br>Matar paneer
+<br>Palak Paneer
+<br>Rajma
+<br>Dal Makhni
+<br>Aloo Matar/Gobi
+<br>Paneer Tikka Masala
+<br>Butter Paneer
+<br>Karahi Paneer
+<br>Shahi Paneer
+<br>Sev Tamater
+<br>Dal Fry
+<br>Dal Batti
+<br>Tuver Thotha
+<br>Bengan Bhartha
+<br>MAINS-NONVEG
+<br>Butter Chicken
+<br>Karahi Chicken
+<br>Chicken Curry
+<br>Chilly Chicken
+<br>Chicken Tikka Masala
+<br>EGG DISHES
+<br>Bhurji
+<br>Half fry
+<br>Ghotala
+<br>Omelette Cutlets
+<br>Nimbu Mari
+<br>Australian Fry
+<br>Thikhari
+<br>Lasan Fry
+<br>Masala Boil fry
+<br>DEVINE FOODS
+<br>CONTACT: 8073556798/6478626213
+<br>DEVINEFOOD1@GMAIL.COM
+<br>SALAD/DRINKS
+<br>Green Salad
+<br>Onion/Tomato
+<br>Mix Salad
+<br>Roasted Papad
+<br>Lassi/Mango Lassi
+<br>Chaas
+<br>Soft drinks
+<br>Tea/Coffee
+<br>BREAD/RICE
+<br>Naan/Garlic Naan
+<br>Tawa Roti/Butter Roti
+<br>Paratha
+<br>Thepla
+<br>Plain Rice/Jeera Rice
+<br>Brown Rice
+<br>Cliantro Lime Rice
+<br>DESSERTS
+<br>Gulab Jamun
+<br>Kher
+<br>Gajar Halwa
+<br>Dudhi Halwa
+<br>Besan Laddu
+<br>Milk Cake
+<br>Rasgulla
+"
+}

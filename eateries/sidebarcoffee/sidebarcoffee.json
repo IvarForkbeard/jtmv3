@@ -1,0 +1,38 @@
+{
+"name" : "Sidebar Coffee",
+"status" : "",
+"link" : "", 
+"hours" : "(Monday - Thursday: 08:30 - 14:00), (Friday: 08:30 - 13:45)", 
+"tel" : "", 
+"sms": "", 
+"address" : "Address: 401 Red River Road (Inside Bora Laskin Faculty of Law)", 
+"map": "https://maps.app.goo.gl/fPPaFpqiijYRRb2c7", 
+"updated" : "Updated: 2026-01-07", 
+"courtesy" : "Courtesy: Justin Menu",
+"image0" : "img.webp",
+"text" : "
+THE SIDEBAR MENU
+<br>
+<br>BEVERAGES 
+<br>HOT CHOCOLATE (12 OZ) - $2.50 
+<br>HOT APPLE CIDER (12 OZ) - $2.50 
+<br>FLAVOUR SHOTS (1/2 OZ) - $0.50 
+<br>COFFEE (12 OZ) - $1.80 
+<br>TEA (12 OZ) - $1.80
+<br>
+<br>BREAKFAST 
+<br>EGG & CHEESE ENGLISH MUFFIN - $4.50 
+<br>BACON, EGG & CHEESE ENGLISH MUFFIN - $5.50 
+<br>BAGEL - $3.00 Everything bagel (ADD cream cheese for $1.00) 
+<br>MUFFINS - $2.50 chocolate chip, coffee cake 
+<br>COOKIES - $1.50 M&M chocolate chip 
+<br>CINNAMON BUNS - $4.00
+<br>
+<br>LUNCH ITALIAN SUB - $8.50 Salami, pepperoni, provolone cheese, pickled peppers, pesto aioli, on a pressed bun 
+<br>HAM & SWISS CROISSANT - $8.50 Black forest ham, swiss cheese, lettuce, red onion and honey dijon spread on a croissant 
+<br>ROASTED VEGGIE & HERBED FETA WRAP - $7.50 Fire-roasted bell peppers, zucchini, onions, lettuce, herbed feta cheese, and balsamic rosemary aioli in a flour tortilla 
+<br>WEEKLY SALAD - $7.50 A new chef creation each week 
+<br>CHIPS & SALSA - $5.50 Seasoned corn chips with a mild salsa 
+<br>PITAS AND HUMMUS - $5.50 Crunchy seasoned pitas with roasted garlic hummus dip
+"
+}

@@ -1,0 +1,13 @@
+{
+    "name": "Kenny's Cafe",
+    "status": "pc",
+    "link": "https:\/\/localhost:8000\/index.php?id=kennyscafe",
+    "hours": "(Sunday - Saturday: 00:00 - 12:00)",
+    "tel": "807-555-1212",
+    "sms": "807-555-1212",
+    "address": "123 Fake Street",
+    "map": "https:\/\/www.justthemenu.ca",
+    "text": "Kraft Dinner\r\nDijon Ketchup\r\nDr. Zipper\r\nMustard\r\nOatmeal",
+    "updated": "2026-02-09",
+    "courtesy": "Justin Menu"
+}

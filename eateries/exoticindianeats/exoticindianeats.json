@@ -1,0 +1,226 @@
+{
+"name" : "Exotic Indian Eats",
+"status" : "",
+"link" : "", 
+"hours" : "(Sunday - Tuesday: 12:00 - 00:00), (Thursday - Saturday: 12:00 - 00:00)", 
+"tel" : "807-500-2421", 
+"sms": "", 
+"address" : "229 Pearl Street", 
+"map": "https://maps.app.goo.gl/sXj5PnPFW6KPCvNW8", 
+"updated" : "2025-07-14", 
+"courtesy" : "Justin Menu", 
+"text" : "MAIN COURSE
+<br>VEG
+<br>Paneer Tikka Masala
+<br>Grilled paneer cubes simmered in a rich and creamy tomato-based tikka masala sauce. 18.99
+<br>Methi Chaman
+<br>Creamy North Indian curry with choice of paneer, green peas, fenugreek leaves miled spiced, luscious cashew sauce. 18.99
+<br>Kadhai Paneer
+<br>Paneer sautéed with onions, bell peppers, and spices in a traditional kadhai masala. 18.99
+<br>Dal Makhani
+<br>Slow-cooked black lentils in butter, cream, and mild spices for a rich, hearty dish. 18.99
+<br>Paneer Lababdar
+<br>Paneer cubes in a luscious tomato-cashew gravy with a touch of cream and spice. 18.99
+<br>Palak Paneer
+<br>Creamy spinach purée blended with paneer cubes and mild Indian spices. 18.99
+<br>Masala Gravy Chap
+<br>Soya chaap simmered in a rich and spicy North Indian-style masala gravy. 18.99
+<br>Chole Bhature/Poori (2)
+<br>Spicy chickpea curry served with fluffy bhature or crispy pooris. 18.99
+<br>Matar Paneer
+<br>Paneer and green peas cooked together in a mildly spiced tomato-onion gravy. 18.99
+<br>Malai Kofta
+<br>Soft paneer and potato dumplings in a rich, creamy cashew-tomato sauce. 18.99
+<br>CHICKEN
+<br>Chicken Ghee Roast
+<br>A fiery South Indian specialty with chicken roasted in ghee and a blend of red chilies and spices. 19.99
+<br>Butter Chicken
+<br>Tender tandoori chicken simmered in a creamy, buttery tomato-based gravy. 19.99
+<br>Andhra Style Chicken Curry (Bone-in)
+<br>Spicy and flavorful chicken curry made with traditional Andhra spices. 19.99
+<br>Chicken Tikka Masala
+<br>Char-grilled chicken tikka cooked in a rich, spiced tomato-onion gravy. 18.99
+<br>Kadai Chicken
+<br>Chicken sautéed with bell peppers, onions, and ground spices in tomato gravy. 19.99
+<br>Peshawari Chicken
+<br>Northwestern-style chicken minced curry with chicken pieces cooked in aromatic spices and onion tomato base. 19.99
+<br>Vindaloo Chicken/Lamb/Goat
+<br>Soft paneer and potato dumplings in a rich, creamy cashew-tomato sauce. 18.99/19.99/23.99
+<br>Saag Chicken
+<br>Chicken cooked in a creamy spinach gravy with mild spices. 19.99
+<br>TANDOOR
+<br>VEG
+<br>Paneer Angara
+<br>Smoky, spicy paneer cubes char-grilled, with mix of Aromatic Indian spices and yogurt. 17.99
+<br>Awadhi Paneer
+<br>Paneer cubes char-grilled, with mix of Aromatic Indian spices, yogurt, Cheese cream and Cashew Paste. 17.99
+<br>Dahi Ke Sholey
+<br>Crispy golden bread pockets stuffed with spicy hung curd and herbs. 17.99
+<br>Tandoori Masala Chap
+<br>Soya chap marinated in bold masala and chargrilled to smoky perfection. 17.99
+<br>Tandoori Malai Chap
+<br>Creamy, mildly spiced soya chap marinated with cashew and cheese cream and char-grilled to perfection. 18.99
+<br>Tandoori Veg Momos
+<br>Paneer-filled dumplings marinated in tandoori masala and grilled to perfection. 16.99
+<br>NON-VEG
+<br>Lahori Chicken Tikka
+<br>Juicy chicken pieces marinated in traditional Lahori spices and grilled to smoky perfection. 18.99
+<br>Tandoori Chicken (Half/Full)
+<br>Classic bone-in chicken marinated in spiced yogurt and roasted in a clay oven. 20.99/31.99
+<br>Reshmi Seekh kebab
+<br>Melt-in-the-mouth minced chicken kebabs infused with Indian aromatic spices. 19.99
+<br>Chicken Malai Tikka
+<br>Tender chicken cubes marinated in a rich blend of Cashew paste, cream, cheese, and mild spices. 19.99
+<br>Hariyali Chicken Tikka
+<br>Succulent chicken infused with fresh mint, coriander, and green chili marinade. 17.99
+<br>GOAT/SEA FOOD
+<br>Tandoori Prawns
+<br>King prawns marinated in spiced yogurt and tandoor-roasted for a smoky, flavorful bite. 22.99
+<br>Mutton Seekh kebab
+<br>Juicy minced mutton skewers seasoned with traditional spices and grilled to perfection. 21.99
+<br>Tawa Fish
+<br>Soya chap marinated in bold masala and chargrilled to smoky perfection. 20.99
+<br>APPETIZERS
+<br>VEG
+<br>Samosa (2)
+<br>Crispy golden pastry stuffed with spiced potato and peas. 6.99
+<br>Samosa Chaat
+<br>Crushed samosas topped with chutneys, yogurt, onions, and spices for a tangy treat. 9.99
+<br>Crispy Corn
+<br>Crisp-fried corn kernels tossed in garlic, chilies, and aromatic spices. 13.99
+<br>NON-VEG
+<br>Chicken Dynamite
+<br>Crispy fried chicken tossed in a fiery, tangy dynamite sauce. 19.99
+<br>Pepper Chicken
+<br>Batter fried bone-less chicken tossed with onion bell peppers and bold black pepper sauce. 19.99
+<br>Drums of Heaven
+<br>Juicy chicken lollipops tossed and served with semi-gravy. 20.99
+<br>Karivepaku Chicken
+<br>Flavorful chicken cooked with fresh curry leaves and South Indian spices. 19.99
+<br>Dragon Chicken
+<br>Spicy Indo-Chinese chicken stir-fried with peppers and garlic sauce. 19.99
+<br>SEAFOOD
+<br>Apollo Fish
+<br>Crispy fried fish tossed in a tangy and spicy Apollo-style sauce. 20.99
+<br>Chilli Fish
+<br>Crispy fish fillets stir-fried in a spicy Indo-Chinese chili sauce. 20.99
+<br>Fish Kasundi Tikka
+<br>Fish chunks marinated in a zesty mustard-based Kasundi sauce and grilled to perfection. 20.99
+<br>Loose Prawns
+<br>Crispy golden prawns tossed in Indo-Chinese spices and herbs for a bold flavor punch. 13.99
+<br>Butter Garlic Prawns
+<br>Succulent prawns sautéed in a rich buttery garlic sauce. 21.99
+<br>Amritsari Fish Pakora
+<br>Basa fish fillets coated in a spiced gram flour batter and deep-fried. 20.99
+<br>INDO CHINESE
+<br>ALL FRIED RICE AND NOODLE ITEMS ARE AVAILABLE IN VEG/EGG/CHICKEN 16.99/17.99/19.99
+<br>Chilli Paneer
+<br>Paneer cubes in a spicy, tangy chili garlic sauce with bell peppers and onions. 18.99
+<br>Chilli Chicken
+<br>Boneless chicken cooked in a fiery chili-soy sauce with onions and peppers. 19.99
+<br>Veg Manchurian
+<br>Vegetable balls simmered in a bold soy-garlic Manchurian sauce. 18.99
+<br>Chicken Manchurian
+<br>Crispy chicken in a rich and spicy Indo-Chinese Manchurian sauce. 19.99
+<br>Noodles
+<br>Stir-fried Hakka noodles with your choice of vegetables, egg, or chicken.
+<br>Pan Fried Noodles
+<br>Crispy noodles topped with savory vegetable or chicken stir-fry in garlic sauce.
+<br>Schezwan Noodles
+<br>Spicy noodles tossed in fiery Shezwan sauce with vegetables, egg, or chicken
+<br>Fried Rice
+<br>Wok-tossed rice with vegetables, egg, or chicken in Indo-Chinese spices.
+<br>Schezwan Fried Rice
+<br>Chili-garlic fried rice in spicy Shezwan sauce with vegetables, egg, or chicken.
+<br>GOAT/SEAFOOD
+<br>Lamb Rogan Josh
+<br>Slow-cooked lamb in a rich Kashmiri-style curry with aromatic spices and yogurt. 23.99
+<br>Goat Curry
+<br>Bone-in goat simmered in a traditional onion-tomato masala with bold Indian spices. 23.99
+<br>Malabar Fish Curry
+<br>Coastal-style fish curry with coconut, curry leaves, and a hint of tamarind. 19.99
+<br>Prawn Ghee Roast
+<br>Succulent prawns roasted in ghee with a fiery blend of red chilies and Mangalorean spices. 23.99
+<br>EXOTIC BREADS
+<br>Rumali Roti
+<br>Soft, smoky, handkerchief-thin flatbread—perfect with any curry or wrap. 3.99
+<br>Garlic Naan
+<br>Succulent prawns roasted in ghee with a fiery blend of red chilies and Mangalorean spices. 3.49
+<br>Butter Naan
+<br>Classic tandoori naan brushed generously with melted butter. 2.99
+<br>Roti
+<br>Whole wheat flatbread cooked on a griddle for a light, healthy option. 2.49
+<br>Lacha Paratha
+<br>Flaky, layered whole wheat paratha cooked with ghee for a crispy finish. 3.99
+<br>Kulcha
+<br>Stuffed tandoori bread with mildly spiced potatoes and herbs. 5.99
+<br>Keema Stuffed Naan
+<br>Naan filled with flavorful minced meat and baked in the tandoor. 6.99
+<br>Cheese Garlic Naan
+<br>Indulgent naan stuffed with cheese and topped with garlic and cilantro. 5.99
+<br>EXOTIC DOSAS
+<br>Plain Dosa
+<br>Crispy golden rice crepe served with coconut chutney and sambar. 13.99
+<br>Masala Dosa
+<br>Crispy dosa filled with spiced mashed potato, served with chutney and sambar. 15.99
+<br>Onion Dosa
+<br>Thin rice crepe topped with finely chopped onions and mild spices. 15.99
+<br>Ravva Dosa
+<br>Thin, lacy semolina-based dosa with a crispy texture and subtle spice. 15.99
+<br>Paneer Dosa
+<br>Stuffed dosa with spiced grated paneer for a rich and hearty twist. 16.99
+<br>Cheese Dosa
+<br>Crispy dosa loaded with melted cheese for a fusion-style delight. 16.99
+<br>Uthappam
+<br>Soft, thick rice pancake topped with mixed fine chopped onions and green chilli. 15.99
+<br>BIRYANI'S
+<br>NON-VEG
+<br>Chicken Dum Biryani
+<br>Classic Hyderabadi-style biryani with bone-in chicken slow-cooked in layers of aromatic rice. 19.99
+<br>Fry Piece Chicken Biryani
+<br>Fragrant biryani with spiced fried chicken pieces layered over basmati rice. 19.99
+<br>Special Boneless Chicken Biryani
+<br>Boneless chicken thigh cooked with aromatic spices and layered in dum biryani style. 19.99
+<br>Spl Prawn Biryani
+<br>Juicy prawns layered in fragrant basmati rice with coastal-style biryani spices. 23.99
+<br>VEG
+<br>Kaju Paneer Biryani
+<br>Fried paneer combined with in-house special spice mix and short basmati rice. 17.99
+<br>Paneer 65 Dum Biryani
+<br>Flavorful dum biryani with spicy fried paneer 65 tossed in fragrant basmati rice. 17.99
+<br>PULAO'S
+<br>Prawn Pulao
+<br>Fragrant rice cooked with spiced prawns and herbs for a coastal twist. 23.99
+<br>Mutton Pulao
+<br>Tender mutton simmered with aromatic rice, whole spices, and ghee. 23.99
+<br>Chicken Fry Piece Pulao
+<br>Seasoned rice paired with crispy fried chicken pieces for a flavorful meal. 19.99
+<br>Chicken Ghee Roast Pulao
+<br>Spicy chicken ghee roast served over mildly spiced rice cooked with whole spices. 19.99
+<br>WRAP'S & BURGERS
+<br>Chicken Tikka Wrap
+<br>Grilled chicken tikka, fresh veggies, and sauces wrapped in warm flatbread. 11.99
+<br>Paneer Tikka Wrap
+<br>Spiced paneer tikka with crisp veggies and chutneys rolled in a soft wrap. 10.99
+<br>Seekh Kebab Wrap
+<br>Juicy minced meat seekh kebab with onions and sauces in a flavorful wrap. 12.99
+<br>Tandoori Chicken Burger
+<br>Grilled chicken served in a bun with lettuce, onions, and house sauce. 15.99
+<br>Aloo Tikki Burger
+<br>Crispy potato patty with chutneys and veggies in a toasted burger bun. 8.99
+<br>DESSERTS
+<br>Rasmalai
+<br>Soft cottage cheese patties soaked in saffron-flavored creamy milk. 6.99
+<br>Shahi Tukda
+<br>Crispy fried bread soaked in sweetened milk and garnished with nuts. 7.99
+<br>Jalebi with Rabdi
+<br>Golden, crispy jalebis served with thick, chilled rabdi. 6.99
+<br>DRINKS
+<br>Mango Lassi 6.99
+<br>Masala Chai 2.99
+<br>Filter Coffee 2.99
+<br>Salt Lassi 5.99
+<br>Peda Lassi 5.99
+<br>Can Pops 2.99
+<br>Water Bottle 1.99"
+}

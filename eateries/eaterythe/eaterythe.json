@@ -1,0 +1,215 @@
+{
+"name" : "Eatery 61, The",
+"status" : "",
+"link" : "https://theeatery61.com/", 
+"hours" : "(Sunday: 10:00 - 14:00, 16:00 - 21:00), (Tuesday - Thursday: 17:00 - 22:00), (Friday: 17:00 - 23:00), (Saturday: 10:00 - 14:00, 17:00 - 23:00)", 
+"tel" : "807-285-7320", 
+"sms": "", 
+"address" : "10 Court Street South", 
+"map": "https://maps.app.goo.gl/V8ihUxX6GF3b1rrj7", 
+"updated" : "2025-10-07", 
+"courtesy" : "Justin Menu", 
+"text" : "
+<br>SMALL PLATES
+<br>Tequila - lime BBQ Shrimp
+<br>$19.00
+<br>Garlic Shrimp, charred Pineapple Salsa, Smoked guajillo Aioli
+<br>Buttermilk Chicken Strips
+<br>$15.00
+<br>Deep-fried marinated chicken strips served with sweet and spicy aioli.
+<br>Seared Scallops
+<br>$18.00
+<br>Served on a bed of Mediterranean salsa.
+<br>Meat Balls
+<br>$17.00
+<br>Bison meatballs,Mojo Rojo served with idiazabl cheese
+<br>Pork Belly Pot Stickers
+<br>$16.00
+<br>Ginger, Soy, Scallion, Ponzu, Chili Oil, Crispy Kale & Bacon
+<br>Chipotle Agave Charred Brussels
+<br>$15.00
+<br>Crispy brussels sprouts, chopped almonds, sweet and spice glaze.
+<br>Curried Spiced Cauliflower
+<br>$15.00
+<br>Curried roasted cauliflower, stuffed with halloumi cheese and topped with sherry and tahini sauce, pine nuts, and pomegranate seeds.
+<br>SALADS & BOWLS
+<br>Cesar salad 14
+<br>$14.00
+<br>Pecorino Romano, Sourdough Croutons, anchovies
+<br>Ensalada de Tomate
+<br>$15.00
+<br>Heirloom tomato, roasted house crostini, goat cheese, herb oil, red onion, black olive, cucumber.
+<br>Tropical Salad
+<br>$16.00
+<br>Jicama, shredded carrots, red & green cabbage, maracuya mint vinaigrette, toasted pine nuts and pomegranate seeds.
+<br>Avocado Garden Toast
+<br>$14.00
+<br>Sour Dough Toast, Beet Hummus, Watermelon Radish, Harissa, Black Sesame Seeds and poached eggs.
+<br>AHI TUNA BOWL
+<br>$21.00
+<br>Calrose rice, Edamame, Avocado, Nori Flakes, Cilantro, Yuzu Vinaigrette, Sriracha Aioli
+<br>Beef Banh Mi Bowl
+<br>$21.00
+<br>Slow Cooked Beef, Spicy Garlic Lemongrass Ponzu, Pickled Carrots, Cucumbers, Cilantro, Pickled Radish, Sliced Serranos, Sriracha Mayo Drizzle and Daikon Sprouts Over Rice.
+<br>Shakshouka
+<br>15.00
+<br>North African Baked Eggs, Turmeric-Roasted Pepper Sauce, Sautéed Spinach, Side toast and halloumi cheese.
+<br>FLATBREADS
+<br>Flatbreads 3 Cheese
+<br>$17.00
+<br>mozzarella, goat cheese, bocconcini, arugula, mushrooms.
+<br>Flatbreads CHORIZO
+<br>$18.00
+<br>Sobrasada (spreadable chorizo), caramelized onion, and honey, red pepper pesto.
+<br>Entrées
+<br>Duck Fried Rice
+<br>$28.00
+<br>Duck carnitas, chiles torreados, egg, scallion
+<br>Lomo Saltado
+<br>$29.00
+<br>tenderloin, onion, tomato, yellow pepper and cilantro. Served with crunchy french fries.
+<br>10 oz A.A.A Skirt Steak
+<br>$39.00
+<br>Parmesan Fries, Shallot Confit, Chermoula
+<br>Chile- Lime Pan Seared Salmon
+<br>$35.00
+<br>sweet potato and corn succotash tomatillos, cilantro-Serrano Mojo
+<br>Pollo Asado
+<br>$32.00
+<br>half roasted chicken, beech ‘shrooms, sofrito, parsnip Pure
+<br>61 Burger
+<br>$19.00
+<br>Sirloin Burger, cheddar cheese, pickles. smoked paprika aioli.
+<br>Orzo Pasta Short Rib
+<br>$28.00
+<br>blue cheese and black truffle.
+<br>Cachopo
+<br>$28.00
+<br>Asturian Fried Steak, prosciutto, bocconcini and Pecorino Romano.
+<br>Brava' Mussles
+<br>$21.00
+<br>Brava’ sauce and parsley.
+<br>Trout
+<br>$33.00
+<br>Pan seared, preserved meyer lemon, and black olive mojo, Rossti
+<br>DESSERT
+<br>The 61 Chantilly
+<br>$12.00
+<br>3 Leches Sponge Cake, Crème Chantilly
+<br>Tiramisu
+<br>$12.00
+<br>Espresso-soaked lady fingers, mascarpone mousse, cocoa powder
+<br>Warm Croissant bread Pudding
+<br>$12.00
+<br>toasted pecan, apple raisin compote, caramel ice cream
+<br>Gelato
+<br>$9.00
+<br>seasonal
+<br>Cocktails
+<br>61 Sour
+<br>$17.00
+<br>Gin, Aperol, Strawberry, lime juice | simple syrup | egg-whites
+<br>El Cubano
+<br>$18.00
+<br>Havana Club | Hibiscus Syrup | passion Fruit puree | lime
+<br>Palma
+<br>$18.00
+<br>Tequila Don Julio | coconut rum, lemon juice | flower of dandelion Syrup
+<br>Mediterráneo Azul
+<br>$17.00
+<br>Cava | Soho | Peach Schnapp | Blue Curaçao, soda
+<br>Valencia Mule
+<br>$18.00
+<br>Vodka | liqueur St-Germain | calamanti juice | Ginger beer | Serrano | Cucumber and Mint
+<br>Almendrón
+<br>$17.00
+<br>Spanish Brandy | Disaronno | Dandelion Syrup | Angostura
+<br>Marianito
+<br>$18.00
+<br>Gin 13 | Nonino Quintessentia Amaro | Campari | Augustura bitters | Pomelo Juice
+<br>Sangria
+<br>$17.00
+<br>Red wine | brandy | Red Vermouth | triple sec | Apples | Oranges
+<br>Mocktails
+<br>Paloma
+<br>$10.00
+<br>grapefruit juice | maple syrup | aranciata rossa sparkling | apple cider vinegar
+<br>The Berry
+<br>$10.00
+<br>cardamom cinnamon syrup | elderflower | yuzu purée
+<br>Margarita
+<br>$10.00
+<br>simple syrup | lime juice | lemon juice | orange juice
+<br>Elderflower Mojito
+<br>$10.00
+<br>lime | mint | elderflower | apple cider vinegar
+<br>BEER
+<br>Pint Estrella
+<br>$10
+<br>Estrella Damm 330ml
+<br>$8
+<br>Estrella Damm 500ml
+<br>$12
+<br>A Lager Non-Alcoholic
+<br>$6
+<br>Beverages
+<br>Mineral Waters
+<br>$7.00
+<br>Assorted Sparkling Water (ask server for selections)
+<br>Juices
+<br>$3.50
+<br>Apple | Orange | Cranberry | Grapefruit | Pineapple Juice
+<br>Soda
+<br>$4.00
+<br>Cola | Sprite | Ginger ale | Fanta | Cream Soda | Tonic water
+<br>Hot Beverages
+<br>Fresh Brewed Coffee
+<br>$3.50
+<br>Assorted Teas by the (ask server for selections)
+<br>Oolong | Green tea | Hibiscus
+<br>$4.50
+<br>Espresso
+<br>$5.50
+<br>Cappuccino
+<br>$7.50
+<br>Latte
+<br>$7.50
+<br>White Wine
+<br>Chocolan Chardonnay Chile
+<br>$9.00/Glass
+<br>Kettle Valley Chardonnay Canada
+<br>$15.00/Glass
+<br>Trillium Cellars Riesling VQA Canada
+<br>$10.00/Glass
+<br>Masi Modello Pinot Gris Italy
+<br>$10.00/Glass
+<br>The Ned Pinot Gris New Zealand
+<br>$10.00/Glass
+<br>Dirty Laundry Pinot Gris Canada
+<br>$11.00/Glass
+<br>Pearce Predhomme Chenin Blanc South Africa
+<br>$12.00/Glass
+<br>Cono Sur Sauvignon Blanc Chile
+<br>$9.00/Glass
+<br>Domaine Wachau Grüner Veltliner Austria
+<br>$11.00/Glass
+<br>Yalumba Viognier Australia
+<br>$9.00/Glass
+<br>Red & Rose Wine
+<br>Henry of Pelham Baco Noir Canada
+<br>$12.00/Glass
+<br>Joseph Drouhin Beaujolais Villages France
+<br>$10.00/Glass
+<br>Dirty Laundry Cabernet Sauvignon Canada
+<br>$15.00/Glass
+<br>Two Sisters Margo Rosé VQA Canada
+<br>$10.00/Glass
+<br>Cune Crianza Spain
+<br>$9.00/Glass
+<br>Luigi Bosca Malbec Argentina
+<br>$10.00/Glass
+<br>Le Pupille Merellino Di Scansano Italy
+<br>$11.00/Glass
+<br>El Coto Crianza Tempranillo Spain
+<br>$9.50/Glass"
+}

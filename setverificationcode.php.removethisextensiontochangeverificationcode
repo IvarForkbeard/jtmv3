@@ -1,0 +1,5 @@
+<?php
+// $userVerification = ''; // DELETE THE CODE BETWEEN QUOTES AND COMMENT ALL CODE AFTER HASHING THIS PASSWORD!!!
+// $hash = password_hash($userVerification, PASSWORD_DEFAULT);
+// file_put_contents('.verification', $hash);
+?>

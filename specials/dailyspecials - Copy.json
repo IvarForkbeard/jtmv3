@@ -1,0 +1,711 @@
+{
+  "sunday": [
+    {
+      "title": "Kid's Pasta",
+      "description": "Kids All-You-Can-Eat Little Red Pasta all day",
+      "id": "redlionsmokehouse"
+    },
+    {
+      "title": "Chicken Quesadilla",
+      "description": "$14.99",
+      "id": "socialthe"
+    },
+    {
+      "title": "Pork Chop Dinner",
+      "description": "$16.99",
+      "id": "javahut"
+    },
+    {
+      "title": "Hot Dogs",
+      "description": "make your Sunday a fun day and grab a $23 pitcher of your favourite Dawson Trail beer all day today! Pairs amazingly with @station.22 ‘s 2 for $12 hotdog special! All Sunday, every Sunday",
+      "id": "station22bydaytonas"
+    },
+    {
+      "title": "Fish & Chips",
+      "description": "FISH & CHIPS - ADD A 2ND PIECE FREE SUNDAYS! Applicable Taxes Extra - Some Restrictions Apply - Dine In Only",
+      "id": "5forksrestaurant"
+    },
+    {
+      "title": "Two Large Pizzas",
+      "description": "Sunday Special : Treat yourself to a 2 Large Pizza, 2 Pop, 2 Dipping for just $40.99!🥳🤩",
+      "id": "pizzastreetthe"
+    },
+    {
+      "title": "Wings or Ribs",
+      "description": "...get a Pint and a Pound (wings OR dry ribs) for only $10+tax. That's less than a pound of wings!",
+      "id": "shooterstavern"
+    },
+    {
+      "title": "Hamburger",
+      "description": "Served with fries.  Maple peppercorn bacon cheeseburger $16.99.  Beverage purchase required.  Dine-in only.  Taxes extra.",
+      "id": "mikesroadhouse"
+    },
+    {
+      "title": "Beef Biryani",
+      "description": "Basmati rice layered with marinated beef, cooked with aromatic spices in a clay pot for enhanced flavour. $12.99",
+      "id": "peedika"
+    },
+    {
+      "title": "Coney Burger or Dog",
+      "description": "Coney Burger or Dog",
+      "id": "georgesmarket"
+    },
+    {
+      "title": "Brunch",
+      "description": "Plated Brunch from 7:30AM–1:30PM : Enjoy plated brunch options for just $22.95 + taxes and mimosas for $7.75 + taxes",
+      "id": "portsidesteakandseafoodrestaurant"
+    }
+  ],
+  "monday": [
+    {
+      "title": "Beef on a Bun",
+      "description": "Hot",
+      "id": "maltesegrocery"
+    },
+    {
+      "title": "Mozza Sticks",
+      "description": "MOZZA STICKS $10",
+      "id": "foundrythe"
+    },
+    {
+      "title": "Tacos",
+      "description": "$14.99 for 3",
+      "id": "socialthe"
+    },
+    {
+      "title": "Salisbury Steak Dinner",
+      "description": "$16.99",
+      "id": "javahut"
+    },
+    {
+      "title": "Two Pizza Slices",
+      "description": "2 pizza slices ($6)",
+      "id": "dawsongeneralstore"
+    },
+    {
+      "title": "Street Food",
+      "description": "MONDAY Street Food START FROM 4:00PM  » Momos » Pav Bhaji » Noodles » Pani Puri » Chat Papdi  » Manchurian » Samosa Chat  » Dahi Panipuri - ONLY $6.99",
+      "id": "monsoonthunderbay"
+    },
+    {
+      "title": "Liver and Onions Dinner",
+      "description": "$16.99",
+      "id": "javahut"
+    },
+    {
+      "title": "Hamburger",
+      "description": "SINGLE BURGER SPECIAL $15",
+      "id": "foundrythe"
+    },
+    {
+      "title": "Pizza",
+      "description": "Come in to dine or order a pizza to go and get 30% off on Mondays",
+      "id": "industrysocialhousethe"
+    },
+    {
+      "title": "Hamburger",
+      "description": "BURGER & BREW MONDAYS - $22 Burger & Beer Combo (*Served With Your Choice Of Side)",
+      "id": "forkssouthsportslounge"
+    },
+    {
+      "title": "Nachos",
+      "description": "Score 2 pints and a plate of nachos for $30 every dang Monday!😎",
+      "id": "station22bydaytonas"
+    },
+    {
+      "title": "Medium Pepperoni Pizza",
+      "description": "Hunger doesn’t sleep—and neither do we 🌙🍕MONDAY WALK-IN DEALMedium Pepperoni for $9.99",
+      "id": "pizzastreetthe"
+    },
+    {
+      "title": "Appetisers",
+      "description": "APPETISER PLATTER – PICK 3 FOR $30 - Build your own flavour trio from our crave-worthy starters. Choose any three from jalapeno poppers, Thai chicken bites, mini perogies, spinach dip, potato poppers, or mozzarella sticks. Perfect for sharing or keeping all to yourself.",
+      "id": "lakeandsprucethe"
+    },
+    {
+      "title": "Pint and a Pound (Wings OR Ribs)",
+      "description": "...get a Pint and a Pound (wings OR dry ribs) for only $10+tax. That's less than a pound of wings!",
+      "id": "shooterstavern"
+    },
+    {
+      "title": "Free Kids Meal",
+      "description": "Family night, on us.💛 Mondays don’t have to totally suck! And they suck a lot less when you don’t have to cook for them, clean up after them…. OR PAY 🥳💖🎉 Kids meals are ON THE HOUSE with the purchase of a regular meal ! Every Monday after 4pm | kids 12 and under. **regular $14 + on for FREE.99** 🤩🤩🤩",
+      "id": "daytonas"
+    },
+    {
+      "title": "Non Veg Pothi Choru",
+      "description": "Regular size. A traditional dish featuring white rice, typically accompanied by dry chicken, chicken kulambu (curry), rasam (spicy soup), vegetable poriyal (stir-fry), and thogayal (chutney).  $12.99",
+      "id": "peedika"
+    },
+    {
+      "title": "Mac & Cheese and Chili",
+      "description": "Mac & Cheese and Chili",
+      "id": "georgesmarket"
+    }
+  ],
+  "tuesday": [
+    {
+      "title": "Hamburger",
+      "description": "Our entire selection of Classic Burgers are only Ten Bucks every Tuesday!!!!",
+      "id": "redlionsmokehouse"
+    },
+    {
+      "title": "Wings",
+      "description": "🚨 Half Price Wings Every Tuesday 🔥🐔 1lb for $̶1̶6̶ $8 every Tuesday! Available in: ●Pineapple Habanero🌶🌶 ●Chipotle Honey🌶 ●Valentina🌶 ●Shumka Dust ●Tajin ●Salt, Pepper & Lime Dine-in Only",
+      "id": "nortenoscantina"
+    },
+    {
+      "title": "Wings",
+      "description": "🚨 Half Price Wings Every Tuesday 🔥🐔 1lb for $̶1̶6̶ $8 every Tuesday! Available in: ●Pineapple Habanero🌶🌶 ●Chipotle Honey🌶 ●Valentina🌶 ●Shumka Dust ●Tajin ●Salt, Pepper & Lime Dine-in Only",
+      "id": "nortenostaqueria"
+    },
+    {
+      "title": "Sliced Pork",
+      "description": "Hot",
+      "id": "maltesegrocery"
+    },
+    {
+      "title": "Buttermilk Fried Chicken Tenders",
+      "description": "BUTTERMILK FRIED CHICKEN TENDERS $15",
+      "id": "foundrythe"
+    },
+    {
+      "title": "Loaded Nachos",
+      "description": "$21.49 for Loaded",
+      "id": "socialthe"
+    },
+    {
+      "title": "Tacos",
+      "description": "Walking Taco 🌮 $6.00 (Chipotle beef with cilantro crema on nacho flavoured Doritos)",
+      "id": "outpostthe"
+    },
+    {
+      "title": "Wings",
+      "description": "All You Can Eat - $25 Every Tuesday is Wing Night!",
+      "id": "brewpubthe"
+    },
+    {
+      "title": "Chili Cheese Dogs",
+      "description": "chili cheese dogs ($7)",
+      "id": "dawsongeneralstore"
+    },
+    {
+      "title": "Chicken Parmesan Dinner",
+      "description": "$16.99",
+      "id": "javahut"
+    },
+    {
+      "title": "Finn Pancakes",
+      "description": "Time: 8:30 to 10:00 am 2 Finn Pancakes & Choice of 2 Sausages OR 2 Slices of Bacon $10.99",
+      "id": "riverstreetcafe"
+    },
+    {
+      "title": "Tavern Style Pizza",
+      "description": "10$ dine in Tavern Style pizza all day and night!",
+      "id": "tiltedturretthe"
+    },
+    {
+      "title": "Tandoori",
+      "description": "It is TANDOORI TUESDAY! 🔥 Enjoy any of our Tandoori meals made in our authentic tandoor oven! We serve Tandoori Kebab, Tandoori Tikka, Tandoori Wings, Tandoori Chicken, Afghani Chicken, Chicken Malai Tikka, Hriyali Chicken Tikka, Malai Paneer Tikka and Haryali Paneer Tikka. Regular $14.95 on for $12.95. To sum things up, here is what a tandoor oven is: 🔥 It is a traditional cooking pot made out of clay. 🔥 Traditional Tandoor ovens use charcoal or firewood. 🔥 Traditional dishes are cooked in over 400 degrees Celsius. Feel like grabbing your Tandoori platter right now? Visit us on Tandoori Tuesdays for authentic Indian tandoori dishes.",
+      "id": "monsoonthunderbay"
+    },
+    {
+      "title": "Half Pizza",
+      "description": "score a pint of beer and a half of a pizza from @station.22 for $17 all day today",
+      "id": "station22bydaytonas"
+    },
+    {
+      "title": "Hamburger",
+      "description": "Tomlin Burgers",
+      "id": "tomlinrestaurant"
+    },
+    {
+      "title": "Veggie Burger",
+      "description": "Veggie Burgers",
+      "id": "tomlinrestaurant"
+    },
+    {
+      "title": "Spaghetti and Meatball Dinner",
+      "description": "$16.99",
+      "id": "javahut"
+    },
+    {
+      "title": "Large Pizza",
+      "description": "Pizza Tuesday means $3 off larges all night! Even on our specialty pizzas like our new Ultimate BBQ Chicken pizza",
+      "id": "galluccispizza"
+    },
+    {
+      "title": "Appetizer",
+      "description": "Get a half priced app every Tuesday with a purchase of an entree",
+      "id": "industrysocialhousethe"
+    },
+    {
+      "title": "Burrito",
+      "id": "Burrito Tuesdays - $9.99 (mention this post)",
+      "id": "goodlifefoodsco"
+    },
+    {
+      "title": "Sandwich",
+      "description": "🥪 Sandwich Tuesdays Are Here In Forks South Sports Lounge! 🥪 Every Tuesday, grab one of our signature sandwiches for just $15 — served with your choice of side. Dine-in only. ✨ Your lineup: 🍞 Butcher’s Toast 🌊 West Coast Club 🥩 Porchetta Sandwich 🔥 Hot & Honey Chicken Sandwich 🌮 Tacos 🧄 Garlic & Parm Crunch Sandwich 🥪 The Carver’s Stack",
+      "id": "forkssouthsportslounge"
+    },
+    {
+      "title": "Coney Burgers",
+      "description": "$2.50 Tuesday at Hodder Greeks is back! Enjoy our famous Coney Burgers & Coney Dogs at a special price 🍔🌭🍟 Get 2 for $5, 4 for $10, 8 for $20…. Best deal in town! In store only",
+      "id": "hoddergreeks"
+    },
+    {
+      "title": "Coney Dogs",
+      "description": "$2.50 Tuesday at Hodder Greeks is back! Enjoy our famous Coney Burgers & Coney Dogs at a special price 🍔🌭🍟 Get 2 for $5, 4 for $10, 8 for $20…. Best deal in town! In store only",
+      "id": "hoddergreeks"
+    },
+    {
+      "title": "Tacos",
+      "description": "Every Tuesday, we serve CARNE ASADA TACOS!  marinated striploin, housemade chimichuri, and pickled onions....  So simple, so delicious - 2 FOR $15 - See you today!",
+      "id": "madhouse"
+    },
+    {
+      "title": "Medium Peri Peri Paneer Pizza",
+      "description": "Turn up the heat this Tuesday 🌶️Our Medium Peri Peri Paneer is calling — smoky, spicy, and full of flavor 🤤💵 $14.99",
+      "id": "pizzastreetthe"
+    },
+    {
+      "title": "Senior's Breakfast (60+)",
+      "description": "AVAILABLE ALL DAY – NO SUBSTITUTIONS (1) Egg, seasoned potato wedges*, 2 slices of oranges, 1 slice of toast. Choice of: (2) bacon, (2) ham, OR (2) sausage Choice of: (1) Finn OR (1) buttermilk pancake Choice of: Coffee OR Tea $9.99",
+      "id": "tinasbreakfastlunch"
+    },
+    {
+      "title": "Chicken Biryani",
+      "description": "Regular size. Fragrant basmati rice layered with tender chicken cooked in spicy masala gravy, garnished with fried onions, cashews, raisins, and fresh coriander leaves. served with raita, pickle, and salad.  $12.99",
+      "id": "peedika"
+    },
+    {
+      "title": "Tavern Style Pizza",
+      "description": "every Tuesday this winter and spring will be TAVERN STYLE TUESDAY! This is a TUESDAY ONLY promotion for IN HOUSE ONLY!! We cannot accommodate takeout! We don’t even have boxes for this style pizza haha. Now because this is our first please bear with us as we work out the kinks! ❤️ We continue to be a Detroit style pizzeria first and foremost but we just LOVE tavern too and can’t wait to share our version with you all every Tuesday! This is first come first serve while supplies last!",
+      "id": "tomlinsubdivision"
+    },
+    {
+      "title": "Rib Meal Deal",
+      "description": "Every Tuesday!! 8 Smoked Ribs, Fries, Choice of Side for $19.95🔥🔥 Large St. Louis Style ribs smoked to perfection in our Texas offset smoker 💨 Dine in only.",
+      "id": "waylandbargrillthe"
+    },
+    {
+      "title": "Beef on a Bun",
+      "description": "Beef on a Bun (A crowd fav)",
+      "id": "georgesmarket"
+    }
+  ],
+  "wednesday": [
+    {
+      "title": "Bagels",
+      "description": "Save some dough on your dozen today because Bagel Wednesday is here 🎉 Every Wednesday you can grab 13 bagels for just $15!",
+      "id": "doughbagelco"
+    },
+    {
+      "title": "Poutine Special (Gluten Free!)",
+      "description": "Every Wednesday we will have a new poutine menu and a new Poutine feature.  All you Gluten-Free diners out there...have no fear...our homemade gravy is gluten-free!  Our whole Poutine menu will be GF",
+      "id": "redlionsmokehouse"
+    },
+    {
+      "title": "Birria Tacos",
+      "description": "$10 for 3 Birria Tacos all day every Wednesday at both locations! 🌮🌮🌮",
+      "id": "nortenoscantina"
+    },
+    {
+      "title": "Birria Tacos",
+      "description": "$10 for 3 Birria Tacos all day every Wednesday at both locations! 🌮🌮🌮",
+      "id": "nortenostaqueria"
+    },
+    {
+      "title": "Sausage",
+      "description": "Hot",
+      "id": "maltesegrocery"
+    },
+    {
+      "title": "Panzerotti",
+      "description": "PANZEROTTIS WITH 3 TOPPINGS $15",
+      "id": "foundrythe"
+    },
+    {
+      "title": "Flatbread",
+      "description": "$15.49",
+      "id": "socialthe"
+    },
+    {
+      "title": "Pizza",
+      "description": "Pizza Day 🍕 $11.00 to $13.00 - *Every Wednesday we also offer our weekly food bar that alternates at $10.00*",
+      "id": "outpostthe"
+    },
+    {
+      "title": "Ribs",
+      "description": "Served with coleslaw and fries - $17.99 Half Rack - $25.99 Full Rack.  Beverage purchase required.  Dine-in only.  Taxes extra.",
+      "id": "mikesroadhouse"
+    },
+    {
+      "title": "Wings",
+      "description": "All day, every dang Wednesday you can score a pint of beer and a pound of wings from @station.22 for $15🥳",
+      "id": "station22bydaytonas"
+    },
+    {
+      "title": "Wings",
+      "description": "Happy Wing Wednesday - Half Priced wings all day and all night! *dine in only",
+      "id": "tiltedturretthe"
+    },
+    {
+      "title": "Double Bacon Cheeseburger or Special Feature Burger",
+      "description": "Every Wednesday is our Burger Night. From 4pm we feature our Pub Double Bacon Cheeseburger, and a featured burger for $15 with fries.",
+      "id": "brewpubthe"
+    },
+    {
+      "title": "Meat Loaf Dinner",
+      "description": "$16.99",
+      "id": "javahut"
+    },
+    {
+      "title": "Specialty Smash Burgers",
+      "description": "specialty smash burgers (prices vary)",
+      "id": "dawsongeneralstore"
+    },
+    {
+      "title": "Wings",
+      "description": "Get an order of wings half-priced with a purchase of a beverage of your choice",
+      "id": "industrysocialhousethe"
+    },
+    {
+      "title": "Asian Street Nachos",
+      "description": "OUR FAMOUS ASIAN STREET NACHOS ONLY - $15",
+      "id": "pocketchangebar"
+    },
+    {
+      "title": "Dosa",
+      "description": "All Dosas, dine-in only, after 16:00 $9.99",
+      "id": "monsoonthunderbay"
+    },
+    {
+      "title": "Fried Chicken Sandwich",
+      "description": "Heartbeat Fried Chicken Sandwiches",
+      "id": "tomlinrestaurant"
+    },
+    {
+      "title": "Wings",
+      "description": "Wings are half-price today all day! Come enjoy and let us know which ones are your favourite 🤩 ... DINE-IN ONLY",
+      "id": "islandspicefusion"
+    },
+    {
+      "title": "Thai Fried Chicken",
+      "description": "Wednesday Today's Special THAI FRIED CHICKEN (Served with fresh veggies) ~ Marinated chicken legs with black pepper, cilantro, garlic, sugar, soy sauce & salt. HOMEMADE SWEET CHILLI SAUCE ~ Made with cilantro root, tamarind juice, roasted chillies and garlic. (Tossed in sauce or on side) Only $11",
+      "id": "thaikitchen"
+    },
+    {
+      "title": "Bagara Rice with Curry",
+      "description": "Craving authentic Hyderabadi flavors? Try our Wednesday special at only $14.99! Bagara Rice with your choice of Goat Curry or Chicken Curry.",
+      "id": "hyderabadicurrypoint"
+    },
+    {
+      "title": "Panzerotti",
+      "description": "It's Wednesday and that means it is Panzerotti night at Gallucci's. Every Wednesday you get an extra $1 off all Panzerottis. If you get two you still save the $4. That means our 3 topping Panzo is only $14 or $16 for the 5 topping. You still save another $4 if you get 2!",
+      "id": "galluccispizza"
+    },
+    {
+      "title": "Wings",
+      "description": "Buy any pizza 🍕 and get 6 FREE bone-in wings 🍗  Choose your flavour: BBQ, Buffalo, Honey Garlic & more 🤤 It’s Wing Wednesday — don’t miss it!",
+      "id": "pizzastreetthe"
+    },
+    {
+      "title": "Hamburger",
+      "description": "$5 OFF ON ANY BURGER From our signature Lake & Spruce Burger to the hearty Steakhouse Burger, every bite is juicy and flavourful. Midweek magic never tasted this good – five dollars off.",
+      "id": "lakeandsprucethe"
+    },
+    {
+      "title": "3 Porottas & Choice of Non-Veg",
+      "description": "Flaky, layered flatbread with a golden-brown crust, ideal for pairing with various curries and gravies.  $12.99",
+      "id": "peedika"
+    },
+    {
+      "title": "Meatball Sub",
+      "description": "Meatball Sub",
+      "id": "georgesmarket"
+    },
+    {
+      "title": "Appetisers",
+      "description": "Happy Hour from 5PM–8PM : Enjoy 15% OFF all of your favourite appetisers",
+      "id": "portsidesteakandseafoodrestaurant"
+    },
+	    {
+      "title": "Wings",
+      "description": "your NEW WEDNESDAY ritual 🍻now offering 🔥WING NIGHT WEDNESDAYS🔥H A L F P R I C E D wings after 4pm.but wait there’s more.+ STAFF PRICED B E E R 🍻😎come drink like you’re staff, and eat like you’ve earned it.",
+      "id": "daytonas"
+    }
+  ],
+  "thursday": [
+    {
+      "title": "Quesadillas",
+      "thursdayDescription0": "$10 QUESADILLAS dine-in only",
+      "id": "nortenoscantina"
+    },
+    {
+      "title": "Quesadillas",
+      "description": "$10 QUESADILLAS dine-in only",
+      "id": "nortenostaqueria"
+    },
+    {
+      "title": "Beef on a Bun",
+      "description": "Hot",
+      "id": "maltesegrocery"
+    },
+    {
+      "title": "Cubano Sandwich",
+      "description": "LUNCH CUBANO SANDWICH $15",
+      "id": "foundrythe"
+    },
+    {
+      "title": "Wings",
+      "description": "Our wings are all $10 on a Thursday and we also have cheap jugs of beer!",
+      "id": "redlionsmokehouse"
+    },
+    {
+      "title": "Wings",
+      "description": "$23.99 for 2lbs",
+      "id": "socialthe"
+    },
+    {
+      "title": "Nashville Hot Chicken Sandwich",
+      "description": "Nashville Chicken 🔥 $11.00",
+      "id": "outpostthe"
+    },
+    {
+      "title": "BBQ Rib Dinner",
+      "description": "$16.99",
+      "id": "javahut"
+    },
+    {
+      "title": "Meatball Sub",
+      "description": "meatball subs ($12)",
+      "id": "dawsongeneralstore"
+    },
+    {
+      "title": "Canadian Pizza",
+      "description": "Sizzling Deal: Canadian Pizza with 2 Pops for Only $15 This Thursday! Grab Yours Now!🥳🥳",
+      "id": "pizzastreetthe"
+    },
+    {
+      "title": "Panzerotti",
+      "description": "$16 Panzerottis & $5 Peroni Nastro Azzurro every Thursday at Grotto Trattoria - Dine in only",
+      "id": "grottotrattoria"
+    },
+    {
+      "title": "Stinging Bee Pizza",
+      "description": "A 12 STINGING BEE PIZZA + 16OZ PENNY LAGER ONLY - $20",
+      "id": "pocketchangebar"
+    },
+    {
+      "title": "Ramen",
+      "description": "AFTER 4PM RAMEN $18",
+      "id": "foundrythe"
+    },
+    {
+      "title": "Pasta",
+      "description": "Get 30% off one pasta of your choice",
+      "id": "industrysocialhousethe"
+    },
+    {
+      "title": "Wings",
+      "description": "$13 WINGS SPECIAL - An order of saucy, crispy wings with your choice of hot, honey garlic, teriyaki, or dry rub. Thursdays are for wings – grab a pound of flavour for only thirteen dollars.",
+      "id": "lakeandsprucethe"
+    },
+    {
+      "title": "Bubble Tea",
+      "description": "FREE EXTRA PEARLS IN ALL YOUR ORDER",
+      "id": "milkteasebubbleteaeuclidavenue"
+    },
+    {
+      "title": "Bubble Tea",
+      "description": "FREE EXTRA PEARLS IN ALL YOUR ORDER",
+      "id": "milkteasebubbletearedriverroad"
+    },
+    {
+      "title": "Wings",
+      "description": "Thursday Wing Night at The Wayland is on!  $8 per pound every Thursday all day!  Dine in only",
+      "id": "waylandbargrillthe"
+    },
+    {
+      "title": "Non Veg Meals",
+      "description": "$12.99",
+      "id": "peedika"
+    },
+    {
+      "title": "Pulled Pork",
+      "description": "Pulled Pork",
+      "id": "georgesmarket"
+    },
+    {
+      "title": "Kimchi Burger + Pork Mandu",
+      "description": "Kimchi Burger + 2 Pork Mandu: $17.99",
+      "id": "bopshop"
+    },
+    {
+      "title": "Toastie and Soup",
+      "description": "With this snow and the cold, all day, every dang Thursday we’ll be offering a feature grilled cheese with a side and tomato soup dipper, for $22.",
+      "id": "station22bydaytonas"
+    }
+  ],
+  "friday": [
+    {
+      "title": "Barbecue Night",
+      "description": "See your server for details",
+      "id": "redlionsmokehouse"
+    },
+    {
+      "title": "Flatbread",
+      "description": "Flatbreads $13.00",
+      "id": "montysjoint"
+    },
+    {
+      "title": "Pulled Pork",
+      "description": "Hot",
+      "id": "maltesegrocery"
+    },
+    {
+      "title": "Fresh Pasta Special",
+      "description": "AFTER 4PM FRESH PASTA SPECIAL $18",
+      "id": "foundrythe"
+    },
+    {
+      "title": "Wings",
+      "description": "🍗 $8.50 (per pound) (Available in all flavours)",
+      "id": "outpostthe"
+    },
+    {
+      "title": "Fish and Chips",
+      "description": "$16.99",
+      "id": "javahut"
+    },
+    {
+      "title": "Smoked Pulled Pork",
+      "description": "smoked pulled pork on focaccia sandwich ($13)",
+      "id": "dawsongeneralstore"
+    },
+    {
+      "title": "Biryani",
+      "description": "Fridays are for Biryani 🔥 Biryani is nothing but, just a state of happiness 😊 The classic Indian Biryani is flavourful, delectable Mughlai cuisine, It’s an irresistible combination of heady aromas, vibrant colours, fluffy long rice and curry flavours.(and can include a meat - chicken, beef, lamb) and is served with raita. At Monsson, you get all variations from the Indian subcontinent, from Pakistan to Bangladesh, Afghanistan to India. Give us a call every Friday for our Veg or Chicken Biryani at a discounted special price of $13.95! Time to have your favourite one this Friday!",
+      "id": "monsoonthunderbay"
+    },
+    {
+      "title": "Oysters",
+      "description": "Oyster on the Half Shell",
+      "id": "tomlinrestaurant"
+    },
+    {
+      "title": "Fish and Chips",
+      "description": "Friday Special – Beer-Battered Fish & Chips!  2 PC Crispy, golden beer-battered fish served with classic chips & creamy coleslaw – only $18.99!  Upgrade your side to Poutine, Salad, or Sweet Potato Fries for just $4.  📍 Available this Friday at Elite - 🌊 Fresh. Crunchy. Full of Friday vibes.  Don’t miss out!",
+      "id": "elitebiryanihub"
+    },
+    {
+      "title": "Lamb Shank Nalli Gosht Dum Biryani",
+      "description": "Nalli Gosht Dum Biryani – Juicy lamb shank slow-cooked on dum with rich spices, layered with basmati rice and bold Hyderabadi flavors.  $23.99 + tax",
+      "id": "elitebiryanihub"
+    },
+    {
+      "title": "Fish & Chips",
+      "description": "LUNCH 2 PIECE FISH & CHIPS $18",
+      "id": "foundrythe"
+    },
+    {
+      "title": "Gnocchi",
+      "description": "Gnocchi Feature $11.00",
+      "id": "montysjoint"
+    },
+    {
+      "title": "Fish & Chips",
+      "description": "Order our signature Fish & Chips on special for $14 *additional pieces are at regular price*",
+      "id": "industrysocialhousethe"
+    },
+    {
+      "title": "Large Pizza",
+      "description": "Friday Special: Grab Any Large Pizza with 2 Pops and 2 Dips for Just $24.99!🤩🥳",
+      "id": "pizzastreetthe"
+    },
+    {
+      "title": "Chicken Strips",
+      "description": "$2 OFF ON BEER BATTERED CHICKEN STRIPS - Golden, crispy chicken strips served with house fries and dipping sauces. Fridays deserve crunch – enjoy them for three dollars off.",
+      "id": "lakeandsprucethe"
+    },
+    {
+      "title": "Fish & Chips",
+      "description": "Served with coleslaw, tartar sauce and fries.  $15.99 1pc Haddock - $21.99 - 2pc Haddock.  Beverage purchase required.  Dine-in only.  Taxes extra.",
+      "id": "mikesroadhouse"
+    },
+    {
+      "title": "Everything",
+      "description": "$12.99",
+      "id": "peedika"
+    },
+    {
+      "title": "Italian Sausage in Tomato Sauce on a Bun",
+      "description": "Italian Sausage in Tomato Sauce on a Bun ($4.49)",
+      "id": "georgesmarket"
+    },
+    {
+      "title": "Pickerel Dinner",
+      "description": "A delicious 8oz filet, pan or battered and deep fried served with slaw, fries and tartar sauce.",
+      "id": "dawsondiner"
+    },
+    {
+      "title": "Kimchi Burger + Pork Mandu",
+      "description": "Kimchi Burger + 2 Pork Mandu: $17.99",
+      "id": "bopshop"
+    }
+  ],
+  "saturday": [
+    {
+      "title": "Barbecue Platter",
+      "description": "See your server for details",
+      "id": "redlionsmokehouse"
+    },
+    {
+      "title": "Nachos",
+      "description": "NACHOS $15  PITCHER OF BEER AND NACHOS $35",
+      "id": "foundrythe"
+    },
+    {
+      "title": "Chicken Waffle",
+      "description": "$14.49",
+      "id": "socialthe"
+    },
+    {
+      "title": "Roast Beef Dinner",
+      "description": "$16.99",
+      "id": "javahut"
+    },
+    {
+      "title": "Fish & Chips",
+      "description": "Saturday Special – Beer-Battered Fish & Chips! - 2 PC Crispy, golden beer-battered fish served with classic chips & creamy coleslaw – only $18.99! - Upgrade your side to Poutine, Salad, or Sweet Potato Fries for just $4. - 📍 Available this Friday at Elite - 🌊 Fresh. Crunchy. Full of Friday vibes. Don’t miss out!",
+      "id": "elitebiryanihub"
+    },
+    {
+      "title": "Lamb Shank Nalli Gosht Dum Biryani",
+      "description": "Nalli Gosht Dum Biryani – Juicy lamb shank slow-cooked on dum with rich spices, layered with basmati rice and bold Hyderabadi flavors. $23.99 + tax",
+      "id": "elitebiryanihub"
+    },
+    {
+      "title": "XL Unlimited Topping Pizza",
+      "description": "Saturday Cravings?  XL Pizza (with unlimited toppings) + 3 pops for just $27.99!  Why settle for less? 🍕🥤 Tag your crew — it's pizza night! 🙌",
+      "id": "pizzastreetthe"
+    },
+    {
+      "title": "Pozham Pori & Beef",
+      "description": "$12.99",
+      "id": "peedika"
+    },
+    {
+      "title": "Pizza, Breadsticks and 2L Pop",
+      "description": "3 Topping Pizza, Breadsticks and 2L of Pop - 14 $27.50, 16 $30.00",
+      "id": "galluccispizza"
+    },
+    {
+      "title": "Coney Burger or Dog",
+      "description": "Coney Burger or Dog",
+      "id": "georgesmarket"
+    }
+  ]
+}
